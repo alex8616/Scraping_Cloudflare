@@ -1,0 +1,275 @@
+2026-09-07 12:32:06 | INFO | ============================================================
+2026-09-07 12:32:06 | INFO | INICIO DE EJECUCION
+2026-09-07 12:32:06 | INFO | ============================================================
+2026-09-07 12:32:24 | INFO | Noticias encontradas: 20
+2026-09-07 12:32:24 | INFO | Noticias ya existentes: 18
+2026-09-07 12:32:24 | INFO | Noticias nuevas: 2
+2026-09-07 12:32:24 | INFO | Procesando 1/2: https://larazon.bo/marcas/2026/09/07/mamani-y-el-hage-vencen-en-sub-16-del-nacional-en-trinidad/
+2026-09-07 12:32:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/07/mamani-y-el-hage-vencen-en-sub-16-del-nacional-en-trinidad/
+2026-09-07 12:32:25 | INFO | Procesando 2/2: https://larazon.bo/nacional/2026/09/07/bolivia-no-voto-en-la-onu-por-una-representacion-mas-precisa-de-africa-en-los-mapas/
+2026-09-07 12:32:27 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/bolivia-no-voto-en-la-onu-por-una-representacion-mas-precisa-de-africa-en-los-mapas/
+2026-09-07 12:32:27 | INFO | Noticias nuevas: 2
+2026-09-07 12:32:27 | INFO | Errores: 0
+2026-09-07 12:32:27 | INFO | Total en JSON: 53
+2026-09-07 12:32:27 | INFO | Límite máximo: 100
+2026-09-07 12:32:27 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 12:32:27 | INFO | EJECUCION COMPLETADA | Duracion: 21.07 segundos
+2026-09-07 12:32:27 | INFO | ============================================================
+2026-09-07 13:00:02 | INFO | ============================================================
+2026-09-07 13:00:02 | INFO | INICIO DE EJECUCION
+2026-09-07 13:00:02 | INFO | ============================================================
+2026-09-07 13:00:18 | INFO | Noticias encontradas: 20
+2026-09-07 13:00:18 | INFO | Noticias ya existentes: 18
+2026-09-07 13:00:18 | INFO | Noticias nuevas: 2
+2026-09-07 13:00:18 | INFO | Procesando 1/2: https://larazon.bo/nacional/2026/09/07/asamblea-interpela-al-ministro-de-educacion-erick-sanjines/
+2026-09-07 13:00:20 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/asamblea-interpela-al-ministro-de-educacion-erick-sanjines/
+2026-09-07 13:00:20 | INFO | Procesando 2/2: https://larazon.bo/ciudades/2026/09/07/el-idif-identificara-con-pruebas-de-adn-a-los-fallecidos-en-viacha/
+2026-09-07 13:00:22 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/el-idif-identificara-con-pruebas-de-adn-a-los-fallecidos-en-viacha/
+2026-09-07 13:00:22 | INFO | Noticias nuevas: 2
+2026-09-07 13:00:22 | INFO | Errores: 0
+2026-09-07 13:00:22 | INFO | Total en JSON: 55
+2026-09-07 13:00:22 | INFO | Límite máximo: 100
+2026-09-07 13:00:22 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 13:00:22 | INFO | EJECUCION COMPLETADA | Duracion: 20.03 segundos
+2026-09-07 13:00:22 | INFO | ============================================================
+2026-09-07 14:00:03 | INFO | ============================================================
+2026-09-07 14:00:03 | INFO | INICIO DE EJECUCION
+2026-09-07 14:00:03 | INFO | ============================================================
+2026-09-07 14:00:19 | INFO | Noticias encontradas: 20
+2026-09-07 14:00:19 | INFO | Noticias ya existentes: 3
+2026-09-07 14:00:19 | INFO | Noticias nuevas: 17
+2026-09-07 14:00:19 | INFO | Procesando 1/17: https://larazon.bo/mundo/2026/09/07/eeuu-cree-que-rusia-tiene-una-nueva-voluntad-de-negociar/
+2026-09-07 14:00:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/eeuu-cree-que-rusia-tiene-una-nueva-voluntad-de-negociar/
+2026-09-07 14:00:26 | INFO | Procesando 2/17: https://larazon.bo/ciudades/2026/09/07/conozca-la-agenda-de-actividades-por-los-216-anos-de-cochabamba/
+2026-09-07 14:00:30 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/conozca-la-agenda-de-actividades-por-los-216-anos-de-cochabamba/
+2026-09-07 14:00:30 | INFO | Procesando 3/17: https://larazon.bo/mundo/2026/09/07/legionario-frances-escapa-de-guerrilleros-que-lo-secuestraron/
+2026-09-07 14:00:33 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/legionario-frances-escapa-de-guerrilleros-que-lo-secuestraron/
+2026-09-07 14:00:33 | INFO | Procesando 4/17: https://larazon.bo/economia-y-empresa/2026/09/07/empresarios-piden-acuerdos-politicos-para-atraer-inversiones-y-evitar-crisis-energetica/
+2026-09-07 14:00:36 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/empresarios-piden-acuerdos-politicos-para-atraer-inversiones-y-evitar-crisis-energetica/
+2026-09-07 14:00:36 | INFO | Procesando 5/17: https://larazon.bo/ciudades/2026/09/07/tarija-villa-montes-reclama-40-items-para-salud-y-un-especialista-en-hemodialisis/
+2026-09-07 14:00:40 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/tarija-villa-montes-reclama-40-items-para-salud-y-un-especialista-en-hemodialisis/
+2026-09-07 14:00:40 | INFO | Procesando 6/17: https://larazon.bo/sociedad/2026/09/07/de-los-84-heridos-por-la-explosion-en-viacha-31-siguen-internados/
+2026-09-07 14:00:44 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/de-los-84-heridos-por-la-explosion-en-viacha-31-siguen-internados/
+2026-09-07 14:00:44 | INFO | Procesando 7/17: https://larazon.bo/ciudades/2026/09/07/la-paz-lluvias-y-deshielos-elevan-al-695-el-nivel-de-las-represas/
+2026-09-07 14:00:47 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/la-paz-lluvias-y-deshielos-elevan-al-695-el-nivel-de-las-represas/
+2026-09-07 14:00:47 | INFO | Procesando 8/17: https://larazon.bo/mundo/2026/09/07/el-cobre-rompe-record-por-una-caia-de-la-produccion-en-chile/
+2026-09-07 14:00:53 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/el-cobre-rompe-record-por-una-caia-de-la-produccion-en-chile/
+2026-09-07 14:00:53 | INFO | Procesando 9/17: https://larazon.bo/economia-y-empresa/2026/09/07/comision-legislativa-inicia-analisis-del-financiamiento-de-us-1-900-mm-con-el-fmi/
+2026-09-07 14:00:56 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/comision-legislativa-inicia-analisis-del-financiamiento-de-us-1-900-mm-con-el-fmi/
+2026-09-07 14:00:56 | INFO | Procesando 10/17: https://larazon.bo/ciudades/2026/09/07/habilitan-el-trafico-en-la-carretera-a-apolo-tras-derrumbe/
+2026-09-07 14:00:59 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/habilitan-el-trafico-en-la-carretera-a-apolo-tras-derrumbe/
+2026-09-07 14:00:59 | INFO | Procesando 11/17: https://larazon.bo/sociedad/2026/09/07/eeuu-agradece-a-la-policia-por-rescate-de-turistas-atrapados-en-uyuni/
+2026-09-07 14:01:04 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/eeuu-agradece-a-la-policia-por-rescate-de-turistas-atrapados-en-uyuni/
+2026-09-07 14:01:04 | INFO | Procesando 12/17: https://larazon.bo/economia-y-empresa/2026/09/07/reactiva-la-paz-lleva-la-produccion-pacena-a-copacabana-el-12-de-septiembre/
+2026-09-07 14:01:08 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/reactiva-la-paz-lleva-la-produccion-pacena-a-copacabana-el-12-de-septiembre/
+2026-09-07 14:01:08 | INFO | Procesando 13/17: https://larazon.bo/ciudades/2026/09/07/hallan-laboratorio-artesanal-de-hachis-en-samaipata/
+2026-09-07 14:01:11 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/hallan-laboratorio-artesanal-de-hachis-en-samaipata/
+2026-09-07 14:01:11 | INFO | Procesando 14/17: https://larazon.bo/nacional/2026/09/07/senado-analiza-cambios-al-sistema-electoral-con-participacion-del-tse-y-partidos/
+2026-09-07 14:01:13 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/senado-analiza-cambios-al-sistema-electoral-con-participacion-del-tse-y-partidos/
+2026-09-07 14:01:13 | INFO | Procesando 15/17: https://larazon.bo/ciudades/2026/09/07/el-ejercito-recupera-sumario-militar-de-2024-sobre-destruccion-de-pirotecnia/
+2026-09-07 14:01:21 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/el-ejercito-recupera-sumario-militar-de-2024-sobre-destruccion-de-pirotecnia/
+2026-09-07 14:01:21 | INFO | Procesando 16/17: https://larazon.bo/ciudades/2026/09/07/lanzan-droga-de-avioneta-con-matricula-boliviana-en-uruguay/
+2026-09-07 14:01:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/lanzan-droga-de-avioneta-con-matricula-boliviana-en-uruguay/
+2026-09-07 14:01:24 | INFO | Procesando 17/17: https://larazon.bo/economia-y-empresa/2026/09/07/la-cao-planteara-ante-la-crucenidad-una-solucion-transversal-sobre-el-diesel/
+2026-09-07 14:01:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/la-cao-planteara-ante-la-crucenidad-una-solucion-transversal-sobre-el-diesel/
+2026-09-07 14:01:26 | INFO | Noticias nuevas: 17
+2026-09-07 14:01:26 | INFO | Errores: 0
+2026-09-07 14:01:26 | INFO | Total en JSON: 72
+2026-09-07 14:01:26 | INFO | Límite máximo: 100
+2026-09-07 14:01:26 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 14:01:26 | INFO | EJECUCION COMPLETADA | Duracion: 83.71 segundos
+2026-09-07 14:01:26 | INFO | ============================================================
+2026-09-07 15:00:02 | INFO | ============================================================
+2026-09-07 15:00:02 | INFO | INICIO DE EJECUCION
+2026-09-07 15:00:02 | INFO | ============================================================
+2026-09-07 15:00:20 | INFO | Noticias encontradas: 20
+2026-09-07 15:00:20 | INFO | Noticias ya existentes: 14
+2026-09-07 15:00:20 | INFO | Noticias nuevas: 6
+2026-09-07 15:00:20 | INFO | Procesando 1/6: https://larazon.bo/mundo/2026/09/07/dimite-jefe-de-la-policia-de-peru-por-aumento-de-la-criminalidad/
+2026-09-07 15:00:23 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/dimite-jefe-de-la-policia-de-peru-por-aumento-de-la-criminalidad/
+2026-09-07 15:00:23 | INFO | Procesando 2/6: https://larazon.bo/marcas/2026/09/07/lautaro-martinez-desea-lo-mejor-a-julian-alvarez/
+2026-09-07 15:00:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/07/lautaro-martinez-desea-lo-mejor-a-julian-alvarez/
+2026-09-07 15:00:25 | INFO | Procesando 3/6: https://larazon.bo/economia-y-empresa/2026/09/07/embajador-de-china-visita-riberalta-y-explora-potencial-exportador-de-la-castana/
+2026-09-07 15:00:29 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/embajador-de-china-visita-riberalta-y-explora-potencial-exportador-de-la-castana/
+2026-09-07 15:00:29 | INFO | Procesando 4/6: https://larazon.bo/ciudades/2026/09/07/hallan-octavo-cuerpo-por-la-explosion-en-viacha-y-resta-hallar-a-seis-victimas/
+2026-09-07 15:00:32 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/hallan-octavo-cuerpo-por-la-explosion-en-viacha-y-resta-hallar-a-seis-victimas/
+2026-09-07 15:00:32 | INFO | Procesando 5/6: https://larazon.bo/economia-y-empresa/2026/09/07/inmobiliarios-piden-reglas-claras-para-sostener-la-inversion/
+2026-09-07 15:00:36 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/inmobiliarios-piden-reglas-claras-para-sostener-la-inversion/
+2026-09-07 15:00:36 | INFO | Procesando 6/6: https://larazon.bo/mundo/2026/09/07/estados-unidos-busca-mantener-vivo-el-recuerdo-del-11-s/
+2026-09-07 15:00:39 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/estados-unidos-busca-mantener-vivo-el-recuerdo-del-11-s/
+2026-09-07 15:00:39 | INFO | Noticias nuevas: 6
+2026-09-07 15:00:39 | INFO | Errores: 0
+2026-09-07 15:00:39 | INFO | Total en JSON: 78
+2026-09-07 15:00:39 | INFO | Límite máximo: 100
+2026-09-07 15:00:39 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 15:00:39 | INFO | EJECUCION COMPLETADA | Duracion: 37.02 segundos
+2026-09-07 15:00:39 | INFO | ============================================================
+2026-09-07 16:00:01 | INFO | ============================================================
+2026-09-07 16:00:01 | INFO | INICIO DE EJECUCION
+2026-09-07 16:00:01 | INFO | ============================================================
+2026-09-07 16:00:18 | INFO | Noticias encontradas: 20
+2026-09-07 16:00:18 | INFO | Noticias ya existentes: 14
+2026-09-07 16:00:18 | INFO | Noticias nuevas: 6
+2026-09-07 16:00:18 | INFO | Procesando 1/6: https://larazon.bo/nacional/2026/09/07/oviedo-afirma-que-la-investigacion-por-explosiones-en-viacha-sera-transparente-y-tecnica/
+2026-09-07 16:00:19 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/oviedo-afirma-que-la-investigacion-por-explosiones-en-viacha-sera-transparente-y-tecnica/
+2026-09-07 16:00:19 | INFO | Procesando 2/6: https://larazon.bo/nacional/2026/09/07/zabaleta-descarta-responsabilidad-de-hace-siete-anos-por-pirotecnia-almacenada-en-un-cuartel/
+2026-09-07 16:00:21 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/zabaleta-descarta-responsabilidad-de-hace-siete-anos-por-pirotecnia-almacenada-en-un-cuartel/
+2026-09-07 16:00:21 | INFO | Procesando 3/6: https://larazon.bo/economia-y-empresa/2026/09/07/ypfb-detecta-630-cuentas-irregulares-para-presunto-desvio-de-combustible/
+2026-09-07 16:00:22 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/ypfb-detecta-630-cuentas-irregulares-para-presunto-desvio-de-combustible/
+2026-09-07 16:00:22 | INFO | Procesando 4/6: https://larazon.bo/economia-y-empresa/2026/09/07/comite-pro-santa-cruz-fiscalizara-las-rutas-del-combustible/
+2026-09-07 16:00:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/comite-pro-santa-cruz-fiscalizara-las-rutas-del-combustible/
+2026-09-07 16:00:24 | INFO | Procesando 5/6: https://larazon.bo/economia-y-empresa/2026/09/07/economia-apunta-a-potenciar-ingresos-y-ordenar-finanzas-de-municipios/
+2026-09-07 16:00:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/economia-apunta-a-potenciar-ingresos-y-ordenar-finanzas-de-municipios/
+2026-09-07 16:00:25 | INFO | Procesando 6/6: https://larazon.bo/nacional/2026/09/07/ejercito-dara-ascenso-postumo-y-beneficios-a-fallecidos-en-viacha/
+2026-09-07 16:00:27 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/ejercito-dara-ascenso-postumo-y-beneficios-a-fallecidos-en-viacha/
+2026-09-07 16:00:27 | INFO | Noticias nuevas: 6
+2026-09-07 16:00:27 | INFO | Errores: 0
+2026-09-07 16:00:27 | INFO | Total en JSON: 84
+2026-09-07 16:00:27 | INFO | Límite máximo: 100
+2026-09-07 16:00:27 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 16:00:27 | INFO | EJECUCION COMPLETADA | Duracion: 26.33 segundos
+2026-09-07 16:00:27 | INFO | ============================================================
+2026-09-07 17:00:01 | INFO | ============================================================
+2026-09-07 17:00:01 | INFO | INICIO DE EJECUCION
+2026-09-07 17:00:01 | INFO | ============================================================
+2026-09-07 17:00:17 | INFO | Noticias encontradas: 20
+2026-09-07 17:00:17 | INFO | Noticias ya existentes: 6
+2026-09-07 17:00:17 | INFO | Noticias nuevas: 14
+2026-09-07 17:00:17 | INFO | Procesando 1/14: https://larazon.bo/economia-y-empresa/2026/09/07/gobierno-garantiza-recursos-para-importar-combustibles/
+2026-09-07 17:00:19 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/gobierno-garantiza-recursos-para-importar-combustibles/
+2026-09-07 17:00:19 | INFO | Procesando 2/14: https://larazon.bo/mundo/2026/09/07/cuba-denuncia-impacto-record-por-el-embargo-de-eeuu/
+2026-09-07 17:00:20 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/cuba-denuncia-impacto-record-por-el-embargo-de-eeuu/
+2026-09-07 17:00:20 | INFO | Procesando 3/14: https://larazon.bo/nacional/2026/09/07/pacheco-anuncia-interpelacion-al-ministro-de-defensa-por-explosion-en-viacha/
+2026-09-07 17:00:22 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/pacheco-anuncia-interpelacion-al-ministro-de-defensa-por-explosion-en-viacha/
+2026-09-07 17:00:22 | INFO | Procesando 4/14: https://larazon.bo/nacional/2026/09/07/velasco-de-que-estado-de-excepcion-estamos-hablando-no-se-deberia-ampliar/
+2026-09-07 17:00:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/velasco-de-que-estado-de-excepcion-estamos-hablando-no-se-deberia-ampliar/
+2026-09-07 17:00:24 | INFO | Procesando 5/14: https://larazon.bo/ciudades/2026/09/07/la-fiscalia-admite-denuncia-penal-contra-eva-copa-por-pagos-a-trebol/
+2026-09-07 17:00:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/la-fiscalia-admite-denuncia-penal-contra-eva-copa-por-pagos-a-trebol/
+2026-09-07 17:00:25 | INFO | Procesando 6/14: https://larazon.bo/espacio-empresarial/2026/09/07/pil-bolivia-presenta-promocion-la-insuperable-con-mas-de-bs-1-millon-en-premios/
+2026-09-07 17:00:27 | INFO | NOTICIA GUARDADA: https://larazon.bo/espacio-empresarial/2026/09/07/pil-bolivia-presenta-promocion-la-insuperable-con-mas-de-bs-1-millon-en-premios/
+2026-09-07 17:00:27 | INFO | Procesando 7/14: https://larazon.bo/ciudades/2026/09/07/legisladores-piden-ayuda-economica-para-familias-de-viacha/
+2026-09-07 17:00:28 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/legisladores-piden-ayuda-economica-para-familias-de-viacha/
+2026-09-07 17:00:28 | INFO | Procesando 8/14: https://larazon.bo/marcas/2026/09/07/lautaro-martinez-desea-lo-mejor-a-julian-alvarez-2/
+2026-09-07 17:00:30 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/07/lautaro-martinez-desea-lo-mejor-a-julian-alvarez-2/
+2026-09-07 17:00:30 | INFO | Procesando 9/14: https://larazon.bo/espacio-empresarial/2026/09/07/onu-mujeres-y-wef-bolivia-firman-memorando-de-entendimiento-para-fortalecer-el-ecosistema-femenino-empresarial-en-bolivia/
+2026-09-07 17:00:31 | INFO | NOTICIA GUARDADA: https://larazon.bo/espacio-empresarial/2026/09/07/onu-mujeres-y-wef-bolivia-firman-memorando-de-entendimiento-para-fortalecer-el-ecosistema-femenino-empresarial-en-bolivia/
+2026-09-07 17:00:31 | INFO | Procesando 10/14: https://larazon.bo/nacional/2026/09/07/gobierno-postula-a-santa-cruz-como-sede-de-la-asamblea-de-la-oea/
+2026-09-07 17:00:33 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/gobierno-postula-a-santa-cruz-como-sede-de-la-asamblea-de-la-oea/
+2026-09-07 17:00:33 | INFO | Procesando 11/14: https://larazon.bo/ciudades/2026/09/07/hallan-355-kilos-de-marihuana-ocultos-en-una-cisterna/
+2026-09-07 17:00:35 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/hallan-355-kilos-de-marihuana-ocultos-en-una-cisterna/
+2026-09-07 17:00:35 | INFO | Procesando 12/14: https://larazon.bo/mundo/2026/09/07/macron-presiona-a-la-ue-para-vetar-redes-sociales-a-menores/
+2026-09-07 17:00:36 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/macron-presiona-a-la-ue-para-vetar-redes-sociales-a-menores/
+2026-09-07 17:00:36 | INFO | Procesando 13/14: https://larazon.bo/nacional/2026/09/07/gobierno-anuncia-proyectos-para-fortalecer-a-la-policia/
+2026-09-07 17:00:38 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/gobierno-anuncia-proyectos-para-fortalecer-a-la-policia/
+2026-09-07 17:00:38 | INFO | Procesando 14/14: https://larazon.bo/espacio-empresarial/2026/09/07/burger-king-y-toei-animation-se-unen-para-lanzar-un-menu-por-tiempo-limitado-de-dragon-ball-super-en-bolivia/
+2026-09-07 17:00:39 | INFO | NOTICIA GUARDADA: https://larazon.bo/espacio-empresarial/2026/09/07/burger-king-y-toei-animation-se-unen-para-lanzar-un-menu-por-tiempo-limitado-de-dragon-ball-super-en-bolivia/
+2026-09-07 17:00:39 | INFO | Noticias nuevas: 14
+2026-09-07 17:00:39 | INFO | Errores: 0
+2026-09-07 17:00:39 | INFO | Total en JSON: 98
+2026-09-07 17:00:39 | INFO | Límite máximo: 100
+2026-09-07 17:00:39 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 17:00:39 | INFO | EJECUCION COMPLETADA | Duracion: 38.60 segundos
+2026-09-07 17:00:39 | INFO | ============================================================
+2026-09-07 18:00:01 | INFO | ============================================================
+2026-09-07 18:00:01 | INFO | INICIO DE EJECUCION
+2026-09-07 18:00:01 | INFO | ============================================================
+2026-09-07 18:00:18 | INFO | Noticias encontradas: 20
+2026-09-07 18:00:18 | INFO | Noticias ya existentes: 13
+2026-09-07 18:00:18 | INFO | Noticias nuevas: 7
+2026-09-07 18:00:18 | INFO | Procesando 1/7: https://larazon.bo/ciudades/2026/09/07/evaluan-infraestructura-de-colegios-en-viacha-para-retorno-a-clases/
+2026-09-07 18:00:23 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/evaluan-infraestructura-de-colegios-en-viacha-para-retorno-a-clases/
+2026-09-07 18:00:23 | INFO | Procesando 2/7: https://larazon.bo/sociedad/2026/09/07/santa-cruz-gobernacion-reestructurara-hospitales-de-tercer-nivel/
+2026-09-07 18:00:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/santa-cruz-gobernacion-reestructurara-hospitales-de-tercer-nivel/
+2026-09-07 18:00:26 | INFO | Procesando 3/7: https://larazon.bo/ciudades/2026/09/07/suben-a-nueve-los-muertos-por-la-explosion-en-viacha-tras-hallar-a-otro-cuerpo/
+2026-09-07 18:00:31 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/suben-a-nueve-los-muertos-por-la-explosion-en-viacha-tras-hallar-a-otro-cuerpo/
+2026-09-07 18:00:31 | INFO | Procesando 4/7: https://larazon.bo/sociedad/2026/09/07/searpi-activa-monitoreo-de-rios-ante-lluvias-y-pide-tomar-recaudos/
+2026-09-07 18:00:35 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/searpi-activa-monitoreo-de-rios-ante-lluvias-y-pide-tomar-recaudos/
+2026-09-07 18:00:35 | INFO | Procesando 5/7: https://larazon.bo/ciudades/2026/09/07/santa-cruz-registra-cinco-incendios-forestales-y-gobernacion-fortalece-lineas-de-defensa/
+2026-09-07 18:00:40 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/santa-cruz-registra-cinco-incendios-forestales-y-gobernacion-fortalece-lineas-de-defensa/
+2026-09-07 18:00:40 | INFO | Procesando 6/7: https://larazon.bo/nacional/2026/09/07/tuto-estado-de-excepcion-prorrogado-o-constitucion-reformada-hay-que-escoger/
+2026-09-07 18:00:47 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/tuto-estado-de-excepcion-prorrogado-o-constitucion-reformada-hay-que-escoger/
+2026-09-07 18:00:47 | INFO | Procesando 7/7: https://larazon.bo/sociedad/2026/09/07/dia-del-peaton-el-alto-registra-minimo-historico-de-contaminacion/
+2026-09-07 18:00:51 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/dia-del-peaton-el-alto-registra-minimo-historico-de-contaminacion/
+2026-09-07 18:00:51 | INFO | Noticias nuevas: 7
+2026-09-07 18:00:51 | INFO | Errores: 0
+2026-09-07 18:00:51 | INFO | Total en JSON: 100
+2026-09-07 18:00:51 | INFO | Límite máximo: 100
+2026-09-07 18:00:51 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 18:00:51 | INFO | EJECUCION COMPLETADA | Duracion: 50.08 segundos
+2026-09-07 18:00:51 | INFO | ============================================================
+2026-09-07 18:22:31 | INFO | ============================================================
+2026-09-07 18:22:31 | INFO | INICIO DE EJECUCION
+2026-09-07 18:22:31 | INFO | ============================================================
+2026-09-07 18:22:50 | INFO | Noticias encontradas: 20
+2026-09-07 18:22:50 | INFO | Noticias ya existentes: 12
+2026-09-07 18:22:50 | INFO | Noticias nuevas: 8
+2026-09-07 18:22:50 | INFO | Procesando 1/8: https://larazon.bo/mundo/2026/09/07/flavio-bolsonaro-reune-a-miles-para-arengar-contra-lula/
+2026-09-07 18:22:52 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/07/flavio-bolsonaro-reune-a-miles-para-arengar-contra-lula/
+2026-09-07 18:22:52 | INFO | Procesando 2/8: https://larazon.bo/economia-y-empresa/2026/09/07/correos-impulsa-un-delivery-express-para-facilitar-envios-digitales/
+2026-09-07 18:22:54 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/correos-impulsa-un-delivery-express-para-facilitar-envios-digitales/
+2026-09-07 18:22:54 | INFO | Procesando 3/8: https://larazon.bo/ciudades/2026/09/07/hallan-a-tres-sujetos-desmantelando-un-inmueble-de-marset/
+2026-09-07 18:22:56 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/hallan-a-tres-sujetos-desmantelando-un-inmueble-de-marset/
+2026-09-07 18:22:56 | INFO | Procesando 4/8: https://larazon.bo/ciudades/2026/09/07/alcaldia-de-la-paz-interviene-saka-churu-ante-riesgo-de-desastre-ambiental/
+2026-09-07 18:22:58 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/alcaldia-de-la-paz-interviene-saka-churu-ante-riesgo-de-desastre-ambiental/
+2026-09-07 18:22:58 | INFO | Procesando 5/8: https://larazon.bo/nacional/2026/09/07/beller-amplia-denuncia-y-vincula-a-cerimedo-con-redes-del-narcotrafico/
+2026-09-07 18:23:00 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/beller-amplia-denuncia-y-vincula-a-cerimedo-con-redes-del-narcotrafico/
+2026-09-07 18:23:00 | INFO | Procesando 6/8: https://larazon.bo/economia-y-empresa/2026/09/07/cnc-alista-capacitacion-sobre-aplicacion-del-tipo-de-cambio-fluctuante/
+2026-09-07 18:23:05 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/cnc-alista-capacitacion-sobre-aplicacion-del-tipo-de-cambio-fluctuante/
+2026-09-07 18:23:05 | INFO | Procesando 7/8: https://larazon.bo/ciudades/2026/09/07/chile-capturan-a-boliviano-con-mas-de-un-kilo-de-droga-en-su-estomago/
+2026-09-07 18:23:07 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/07/chile-capturan-a-boliviano-con-mas-de-un-kilo-de-droga-en-su-estomago/
+2026-09-07 18:23:07 | INFO | Procesando 8/8: https://larazon.bo/economia-y-empresa/2026/09/07/caneb-destaca-a-brasil-como-socio-clave-para-oferta-exportable-boliviana/
+2026-09-07 18:23:08 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/caneb-destaca-a-brasil-como-socio-clave-para-oferta-exportable-boliviana/
+2026-09-07 18:23:08 | INFO | Noticias nuevas: 8
+2026-09-07 18:23:08 | INFO | Errores: 0
+2026-09-07 18:23:08 | INFO | Total en JSON: 100
+2026-09-07 18:23:08 | INFO | Límite máximo: 100
+2026-09-07 18:23:08 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 18:23:08 | INFO | EJECUCION COMPLETADA | Duracion: 37.28 segundos
+2026-09-07 18:23:08 | INFO | ============================================================
+2026-09-07 18:27:55 | INFO | ============================================================
+2026-09-07 18:27:55 | INFO | INICIO DE EJECUCION
+2026-09-07 18:27:55 | INFO | ============================================================
+2026-09-07 18:28:14 | INFO | Noticias encontradas: 20
+2026-09-07 18:28:14 | INFO | Noticias ya existentes: 20
+2026-09-07 18:28:14 | INFO | Noticias nuevas: 0
+2026-09-07 18:28:14 | INFO | Noticias nuevas: 0
+2026-09-07 18:28:14 | INFO | Errores: 0
+2026-09-07 18:28:14 | INFO | Total en JSON: 100
+2026-09-07 18:28:14 | INFO | Límite máximo: 100
+2026-09-07 18:28:14 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 18:28:14 | INFO | EJECUCION COMPLETADA | Duracion: 19.44 segundos
+2026-09-07 18:28:14 | INFO | ============================================================
+2026-09-07 19:00:02 | INFO | ============================================================
+2026-09-07 19:00:02 | INFO | INICIO DE EJECUCION
+2026-09-07 19:00:02 | INFO | ============================================================
+2026-09-07 19:00:19 | INFO | Noticias encontradas: 20
+2026-09-07 19:00:19 | INFO | Noticias ya existentes: 16
+2026-09-07 19:00:19 | INFO | Noticias nuevas: 4
+2026-09-07 19:00:19 | INFO | Procesando 1/4: https://larazon.bo/sociedad/2026/09/07/sanjines-evita-la-censura-pero-no-logra-la-confianza-de-la-asamblea/
+2026-09-07 19:00:20 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/07/sanjines-evita-la-censura-pero-no-logra-la-confianza-de-la-asamblea/
+2026-09-07 19:00:20 | INFO | Procesando 2/4: https://larazon.bo/economia-y-empresa/2026/09/07/velasco-plantea-eliminar-subvencion-y-mantener-solo-para-transporte-publico/
+2026-09-07 19:00:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/velasco-plantea-eliminar-subvencion-y-mantener-solo-para-transporte-publico/
+2026-09-07 19:00:24 | INFO | Procesando 3/4: https://larazon.bo/economia-y-empresa/2026/09/07/este-miercoles-ingresa-primer-cargamento-de-diesel-importado-desde-brasil/
+2026-09-07 19:00:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/07/este-miercoles-ingresa-primer-cargamento-de-diesel-importado-desde-brasil/
+2026-09-07 19:00:26 | INFO | Procesando 4/4: https://larazon.bo/nacional/2026/09/07/civicos-confirman-asamblea-de-la-crucenidad-para-este-miercoles/
+2026-09-07 19:00:28 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/07/civicos-confirman-asamblea-de-la-crucenidad-para-este-miercoles/
+2026-09-07 19:00:28 | INFO | Noticias nuevas: 4
+2026-09-07 19:00:28 | INFO | Errores: 0
+2026-09-07 19:00:28 | INFO | Total en JSON: 100
+2026-09-07 19:00:28 | INFO | Límite máximo: 100
+2026-09-07 19:00:28 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 19:00:28 | INFO | EJECUCION COMPLETADA | Duracion: 25.63 segundos
+2026-09-07 19:00:28 | INFO | ============================================================
+2026-09-07 19:02:52 | INFO | ============================================================
+2026-09-07 19:02:52 | INFO | INICIO DE EJECUCION
+2026-09-07 19:02:52 | INFO | ============================================================
+2026-09-07 19:03:08 | INFO | Noticias encontradas: 20
+2026-09-07 19:03:08 | INFO | Noticias ya existentes: 20
+2026-09-07 19:03:08 | INFO | Noticias nuevas: 0
+2026-09-07 19:03:08 | INFO | Noticias nuevas: 0
+2026-09-07 19:03:08 | INFO | Errores: 0
+2026-09-07 19:03:08 | INFO | Total en JSON: 100
+2026-09-07 19:03:08 | INFO | Límite máximo: 100
+2026-09-07 19:03:08 | INFO | Archivo: data/larazon/noticias.json
+2026-09-07 19:03:08 | INFO | EJECUCION COMPLETADA | Duracion: 16.57 segundos
+2026-09-07 19:03:08 | INFO | ============================================================

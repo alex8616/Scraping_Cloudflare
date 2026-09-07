@@ -1,37 +1,95 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import time
+
+
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/139.0.0.0 Safari/537.36"
+    )
+}
+
+
+TIMEOUT = 20
+MAX_REINTENTOS = 3
+
+
+def realizar_peticion(url):
+
+    ultimo_error = None
+
+    for intento in range(1, MAX_REINTENTOS + 1):
+
+        try:
+
+            response = requests.get(
+                url,
+                headers=HEADERS,
+                timeout=TIMEOUT
+            )
+
+            response.raise_for_status()
+
+            return response
+
+        except requests.RequestException as e:
+
+            ultimo_error = e
+
+            print(
+                f"ERROR HTTP | Intento "
+                f"{intento}/{MAX_REINTENTOS} | {url}"
+            )
+
+            if intento < MAX_REINTENTOS:
+
+                espera = intento * 2
+
+                print(
+                    f"Reintentando en {espera} segundos..."
+                )
+
+                time.sleep(espera)
+
+    raise ultimo_error
 
 
 def scrapear_noticia(url):
 
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) "
-            "Chrome/139.0.0.0 Safari/537.36"
-        )
-    }
+    response = realizar_peticion(url)
 
-    response = requests.get(
-        url,
-        headers=headers,
-        timeout=20
+    soup = BeautifulSoup(
+        response.text,
+        "html.parser"
     )
 
-    response.raise_for_status()
+    og_title = soup.find(
+        "meta",
+        property="og:title"
+    )
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    og_description = soup.find(
+        "meta",
+        property="og:description"
+    )
 
-    # ==========================================
-    # METADATOS
-    # ==========================================
+    og_image = soup.find(
+        "meta",
+        property="og:image"
+    )
 
-    og_title = soup.find("meta", property="og:title")
-    og_description = soup.find("meta", property="og:description")
-    og_image = soup.find("meta", property="og:image")
-    author = soup.find("meta", attrs={"name": "author"})
-    published = soup.find("meta", property="article:published_time")
+    author = soup.find(
+        "meta",
+        attrs={"name": "author"}
+    )
+
+    published = soup.find(
+        "meta",
+        property="article:published_time"
+    )
 
     titulo = (
         og_title.get("content").strip()
@@ -63,10 +121,6 @@ def scrapear_noticia(url):
         else None
     )
 
-    # ==========================================
-    # CATEGORÍA
-    # ==========================================
-
     categoria = None
 
     schema = soup.find(
@@ -82,7 +136,10 @@ def scrapear_noticia(url):
                 schema.string
             )
 
-            for item in datos_schema.get("@graph", []):
+            for item in datos_schema.get(
+                "@graph",
+                []
+            ):
 
                 if item.get("@type") == "Article":
 
@@ -90,19 +147,21 @@ def scrapear_noticia(url):
                         "articleSection"
                     )
 
-                    if isinstance(secciones, list):
+                    if isinstance(
+                        secciones,
+                        list
+                    ):
+
                         categoria = secciones[0]
+
                     else:
+
                         categoria = secciones
 
                     break
 
         except Exception:
             pass
-
-    # ==========================================
-    # CONTENIDO
-    # ==========================================
 
     contenido_html = soup.select_one(
         ".content-inner"
@@ -122,38 +181,23 @@ def scrapear_noticia(url):
             if texto:
                 parrafos.append(texto)
 
-    contenido = "\n\n".join(parrafos)
-
-    # ==========================================
-    # RESULTADO
-    # ==========================================
+    contenido = "\n\n".join(
+        parrafos
+    )
 
     noticia = {
-
         "titulo": titulo,
-
         "descripcion": descripcion,
-
         "contenido": contenido,
-
         "autor": autor,
-
         "fecha": fecha,
-
         "categoria": categoria,
-
         "imagen": imagen,
-
         "url": url
-
     }
 
     return noticia
 
-
-# ==========================================
-# PRUEBA
-# ==========================================
 
 if __name__ == "__main__":
 
