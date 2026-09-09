@@ -9,8 +9,9 @@ from larazon_scraper import scrapear_noticia
 
 
 RUTA_JSON = "data/larazon/noticias.json"
-RUTA_LOG = "logs/scraper.log"
+RUTA_LOG = "logs/larazon_scraper.log"
 
+LIMITE_URLS = 20
 LIMITE_NOTICIAS = 100
 
 
@@ -46,6 +47,12 @@ logger = logging.getLogger(__name__)
 def cargar_noticias():
 
     if not os.path.exists(RUTA_JSON):
+
+        logger.info(
+            "El archivo JSON todavía no existe. "
+            "Se iniciará una colección nueva."
+        )
+
         return []
 
     try:
@@ -58,18 +65,26 @@ def cargar_noticias():
 
             datos = json.load(archivo)
 
-            if isinstance(datos, list):
-                return datos
+    except json.JSONDecodeError as e:
 
-            return []
-
-    except (json.JSONDecodeError, OSError) as e:
-
-        logger.error(
-            f"No se pudo leer el JSON: {e}"
+        raise Exception(
+            f"El archivo JSON está corrupto: {e}"
         )
 
-        return []
+    except OSError as e:
+
+        raise Exception(
+            f"No se pudo leer el archivo JSON: {e}"
+        )
+
+    if not isinstance(datos, list):
+
+        raise Exception(
+            "El archivo JSON tiene una estructura inválida. "
+            "Se esperaba una lista de noticias."
+        )
+
+    return datos
 
 
 # ============================================================
@@ -81,6 +96,7 @@ def fecha_noticia(noticia):
     fecha = noticia.get("fecha")
 
     if not fecha:
+
         return datetime.min
 
     try:
@@ -92,6 +108,57 @@ def fecha_noticia(noticia):
     except (ValueError, TypeError):
 
         return datetime.min
+
+
+# ============================================================
+# GUARDAR JSON DE FORMA SEGURA
+# ============================================================
+
+def guardar_json(noticias):
+
+    os.makedirs(
+        os.path.dirname(RUTA_JSON),
+        exist_ok=True
+    )
+
+    ruta_temp = RUTA_JSON + ".tmp"
+
+    try:
+
+        with open(
+            ruta_temp,
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            json.dump(
+                noticias,
+                archivo,
+                ensure_ascii=False,
+                indent=4
+            )
+
+            archivo.flush()
+            os.fsync(
+                archivo.fileno()
+            )
+
+        os.replace(
+            ruta_temp,
+            RUTA_JSON
+        )
+
+    except Exception:
+
+        if os.path.exists(ruta_temp):
+
+            try:
+                os.remove(ruta_temp)
+
+            except OSError:
+                pass
+
+        raise
 
 
 # ============================================================
@@ -108,6 +175,10 @@ def guardar_noticias():
 
     try:
 
+        # ----------------------------------------------------
+        # CARGAR NOTICIAS EXISTENTES
+        # ----------------------------------------------------
+
         noticias_existentes = cargar_noticias()
 
         noticias_por_url = {
@@ -116,8 +187,12 @@ def guardar_noticias():
             if noticia.get("url")
         }
 
+        # ----------------------------------------------------
+        # OBTENER URLs NUEVAS
+        # ----------------------------------------------------
+
         urls = obtener_urls_noticias(
-            limite=20
+            limite=LIMITE_URLS
         )
 
         nuevas_urls = [
@@ -126,7 +201,9 @@ def guardar_noticias():
             if url not in noticias_por_url
         ]
 
-        existentes = len(urls) - len(nuevas_urls)
+        existentes = (
+            len(urls) - len(nuevas_urls)
+        )
 
         logger.info(
             f"Noticias encontradas: {len(urls)}"
@@ -143,16 +220,24 @@ def guardar_noticias():
         nuevas = 0
         errores = 0
 
+        # ----------------------------------------------------
+        # SCRAPEAR NOTICIAS NUEVAS
+        # ----------------------------------------------------
+
         for i, url in enumerate(
             nuevas_urls,
             1
         ):
 
             logger.info(
-                f"Procesando {i}/{len(nuevas_urls)}: {url}"
+                f"Procesando "
+                f"{i}/{len(nuevas_urls)}: "
+                f"{url}"
             )
 
             try:
+
+                inicio_noticia = time.time()
 
                 noticia = scrapear_noticia(
                     url
@@ -162,8 +247,19 @@ def guardar_noticias():
 
                 nuevas += 1
 
+                duracion_noticia = (
+                    time.time() - inicio_noticia
+                )
+
                 logger.info(
                     f"NOTICIA GUARDADA: {url}"
+                )
+
+                logger.info(
+                    f"Procesamiento completado | "
+                    f"Noticia {i}/{len(nuevas_urls)} | "
+                    f"Tiempo: "
+                    f"{duracion_noticia:.2f} segundos"
                 )
 
             except Exception as e:
@@ -171,8 +267,13 @@ def guardar_noticias():
                 errores += 1
 
                 logger.error(
-                    f"ERROR AL SCRAPEAR: {url} | {e}"
+                    f"ERROR AL SCRAPEAR: "
+                    f"{url} | {e}"
                 )
+
+        # ----------------------------------------------------
+        # ORDENAR NOTICIAS
+        # ----------------------------------------------------
 
         noticias = list(
             noticias_por_url.values()
@@ -183,27 +284,29 @@ def guardar_noticias():
             reverse=True
         )
 
-        noticias = noticias[:LIMITE_NOTICIAS]
+        # ----------------------------------------------------
+        # LIMITAR A 100
+        # ----------------------------------------------------
 
-        os.makedirs(
-            os.path.dirname(RUTA_JSON),
-            exist_ok=True
+        noticias = noticias[
+            :LIMITE_NOTICIAS
+        ]
+
+        # ----------------------------------------------------
+        # GUARDAR JSON
+        # ----------------------------------------------------
+
+        guardar_json(
+            noticias
         )
 
-        with open(
-            RUTA_JSON,
-            "w",
-            encoding="utf-8"
-        ) as archivo:
+        # ----------------------------------------------------
+        # RESUMEN
+        # ----------------------------------------------------
 
-            json.dump(
-                noticias,
-                archivo,
-                ensure_ascii=False,
-                indent=4
-            )
-
-        duracion = time.time() - inicio
+        duracion = (
+            time.time() - inicio
+        )
 
         logger.info(
             f"Noticias nuevas: {nuevas}"
@@ -218,7 +321,8 @@ def guardar_noticias():
         )
 
         logger.info(
-            f"Límite máximo: {LIMITE_NOTICIAS}"
+            f"Límite máximo: "
+            f"{LIMITE_NOTICIAS}"
         )
 
         logger.info(
@@ -234,7 +338,9 @@ def guardar_noticias():
 
     except Exception as e:
 
-        duracion = time.time() - inicio
+        duracion = (
+            time.time() - inicio
+        )
 
         logger.exception(
             f"EJECUCION FALLIDA | "
@@ -243,6 +349,10 @@ def guardar_noticias():
 
         raise
 
+
+# ============================================================
+# EJECUCIÓN
+# ============================================================
 
 if __name__ == "__main__":
 

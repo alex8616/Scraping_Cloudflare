@@ -1,0 +1,493 @@
+2026-09-09 01:13:55 | INFO | ============================================================
+2026-09-09 01:13:55 | INFO | INICIO DE EJECUCION
+2026-09-09 01:13:55 | INFO | ============================================================
+2026-09-09 01:14:03 | INFO | Noticias encontradas: 20
+2026-09-09 01:14:03 | INFO | Noticias ya existentes: 0
+2026-09-09 01:14:03 | INFO | Noticias nuevas: 20
+2026-09-09 01:14:03 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 01:14:10 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 01:14:10 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:14:18 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:14:18 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 01:14:26 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 01:14:26 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 01:14:35 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 01:14:35 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 01:14:43 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 01:14:43 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:14:52 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:14:52 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 01:15:00 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 01:15:00 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 01:15:09 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 01:15:09 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:15:17 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:15:17 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 01:15:25 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 01:15:25 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 01:15:33 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 01:15:33 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 01:15:42 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 01:15:42 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 01:15:51 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 01:15:51 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 01:15:59 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 01:15:59 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 01:16:07 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 01:16:07 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 01:16:16 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 01:16:16 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:16:24 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:16:24 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 01:16:33 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 01:16:33 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 01:16:41 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 01:16:41 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 01:16:49 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 01:16:49 | INFO | Noticias nuevas: 20
+2026-09-09 01:16:49 | INFO | Errores: 0
+2026-09-09 01:16:49 | INFO | Total en JSON: 20
+2026-09-09 01:16:49 | INFO | Límite máximo: 100
+2026-09-09 01:16:49 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:16:49 | INFO | EJECUCION COMPLETADA | Duracion: 174.31 segundos
+2026-09-09 01:16:49 | INFO | ============================================================
+2026-09-09 01:28:28 | INFO | ============================================================
+2026-09-09 01:28:28 | INFO | INICIO DE EJECUCION
+2026-09-09 01:28:28 | INFO | ============================================================
+2026-09-09 01:28:37 | INFO | Noticias encontradas: 20
+2026-09-09 01:28:37 | INFO | Noticias ya existentes: 20
+2026-09-09 01:28:37 | INFO | Noticias nuevas: 0
+2026-09-09 01:28:37 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 01:28:37 | INFO | Noticias nuevas: 0
+2026-09-09 01:28:37 | INFO | Errores: 0
+2026-09-09 01:28:37 | INFO | Total en JSON: 20
+2026-09-09 01:28:37 | INFO | Límite máximo: 100
+2026-09-09 01:28:37 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:28:37 | INFO | EJECUCION COMPLETADA | Duracion: 8.36 segundos
+2026-09-09 01:28:37 | INFO | ============================================================
+2026-09-09 01:33:52 | INFO | ============================================================
+2026-09-09 01:33:52 | INFO | INICIO DE EJECUCION
+2026-09-09 01:33:52 | INFO | ============================================================
+2026-09-09 01:34:00 | INFO | Noticias encontradas: 20
+2026-09-09 01:34:00 | INFO | Noticias ya existentes: 20
+2026-09-09 01:34:00 | INFO | Noticias nuevas: 0
+2026-09-09 01:34:00 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 01:34:00 | INFO | Noticias nuevas: 0
+2026-09-09 01:34:00 | INFO | Errores: 0
+2026-09-09 01:34:00 | INFO | Total en JSON: 20
+2026-09-09 01:34:00 | INFO | Límite máximo: 100
+2026-09-09 01:34:00 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:34:00 | INFO | EJECUCION COMPLETADA | Duracion: 7.90 segundos
+2026-09-09 01:34:00 | INFO | ============================================================
+2026-09-09 01:35:12 | INFO | ============================================================
+2026-09-09 01:35:12 | INFO | INICIO DE EJECUCION
+2026-09-09 01:35:12 | INFO | ============================================================
+2026-09-09 01:35:20 | INFO | Noticias encontradas: 20
+2026-09-09 01:35:20 | INFO | Noticias ya existentes: 20
+2026-09-09 01:35:20 | INFO | Noticias nuevas: 0
+2026-09-09 01:35:20 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 01:35:20 | INFO | Noticias nuevas: 0
+2026-09-09 01:35:20 | INFO | Errores: 0
+2026-09-09 01:35:20 | INFO | Total en JSON: 20
+2026-09-09 01:35:20 | INFO | Límite máximo: 100
+2026-09-09 01:35:20 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:35:20 | INFO | EJECUCION COMPLETADA | Duracion: 7.84 segundos
+2026-09-09 01:35:20 | INFO | ============================================================
+2026-09-09 01:35:43 | INFO | ============================================================
+2026-09-09 01:35:43 | INFO | INICIO DE EJECUCION
+2026-09-09 01:35:43 | INFO | ============================================================
+2026-09-09 01:35:43 | ERROR | No se pudo leer el JSON: Expecting value: line 1 column 1 (char 0)
+2026-09-09 01:35:50 | INFO | Noticias encontradas: 20
+2026-09-09 01:35:50 | INFO | Noticias ya existentes: 0
+2026-09-09 01:35:50 | INFO | Noticias nuevas: 20
+2026-09-09 01:35:50 | INFO | Iniciando navegador Chromium...
+2026-09-09 01:35:51 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 01:35:51 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 01:35:53 | INFO | STATUS: 307
+2026-09-09 01:35:53 | INFO | Noticia extraída correctamente | Tiempo: 2.14 segundos
+2026-09-09 01:35:53 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 01:35:53 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo total: 2.14 segundos
+2026-09-09 01:35:53 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:35:53 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:35:54 | INFO | STATUS: 200
+2026-09-09 01:35:54 | INFO | Noticia extraída correctamente | Tiempo: 0.80 segundos
+2026-09-09 01:35:54 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:35:54 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo total: 0.80 segundos
+2026-09-09 01:35:54 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 01:35:54 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 01:35:55 | INFO | STATUS: 200
+2026-09-09 01:35:55 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-09 01:35:55 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 01:35:55 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo total: 0.81 segundos
+2026-09-09 01:35:55 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 01:35:55 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 01:35:55 | INFO | STATUS: 200
+2026-09-09 01:35:56 | INFO | Noticia extraída correctamente | Tiempo: 1.05 segundos
+2026-09-09 01:35:56 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 01:35:56 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo total: 1.05 segundos
+2026-09-09 01:35:56 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 01:35:56 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 01:35:56 | INFO | STATUS: 200
+2026-09-09 01:35:57 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-09 01:35:57 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 01:35:57 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo total: 0.88 segundos
+2026-09-09 01:35:57 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:35:57 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:35:57 | INFO | STATUS: 200
+2026-09-09 01:35:58 | INFO | Noticia extraída correctamente | Tiempo: 0.98 segundos
+2026-09-09 01:35:58 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:35:58 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo total: 0.99 segundos
+2026-09-09 01:35:58 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 01:35:58 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 01:35:58 | INFO | STATUS: 200
+2026-09-09 01:35:59 | INFO | Noticia extraída correctamente | Tiempo: 0.93 segundos
+2026-09-09 01:35:59 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 01:35:59 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo total: 0.93 segundos
+2026-09-09 01:35:59 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 01:35:59 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 01:35:59 | INFO | STATUS: 200
+2026-09-09 01:35:59 | INFO | Noticia extraída correctamente | Tiempo: 0.83 segundos
+2026-09-09 01:35:59 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 01:35:59 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo total: 0.83 segundos
+2026-09-09 01:35:59 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:35:59 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:36:00 | INFO | STATUS: 200
+2026-09-09 01:36:00 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 01:36:00 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:36:00 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo total: 0.84 segundos
+2026-09-09 01:36:00 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 01:36:00 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 01:36:01 | INFO | STATUS: 200
+2026-09-09 01:36:01 | INFO | Noticia extraída correctamente | Tiempo: 0.86 segundos
+2026-09-09 01:36:01 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 01:36:01 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo total: 0.86 segundos
+2026-09-09 01:36:01 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 01:36:01 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 01:36:02 | INFO | STATUS: 200
+2026-09-09 01:36:02 | INFO | Noticia extraída correctamente | Tiempo: 0.87 segundos
+2026-09-09 01:36:02 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 01:36:02 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo total: 0.87 segundos
+2026-09-09 01:36:02 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 01:36:02 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 01:36:03 | INFO | STATUS: 200
+2026-09-09 01:36:03 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-09 01:36:03 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 01:36:03 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo total: 0.81 segundos
+2026-09-09 01:36:03 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 01:36:03 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 01:36:03 | INFO | STATUS: 200
+2026-09-09 01:36:04 | INFO | Noticia extraída correctamente | Tiempo: 0.82 segundos
+2026-09-09 01:36:04 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 01:36:04 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo total: 0.82 segundos
+2026-09-09 01:36:04 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 01:36:04 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 01:36:04 | INFO | STATUS: 200
+2026-09-09 01:36:04 | INFO | Noticia extraída correctamente | Tiempo: 0.85 segundos
+2026-09-09 01:36:04 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 01:36:04 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo total: 0.85 segundos
+2026-09-09 01:36:04 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 01:36:04 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 01:36:05 | INFO | STATUS: 200
+2026-09-09 01:36:05 | INFO | Noticia extraída correctamente | Tiempo: 0.92 segundos
+2026-09-09 01:36:05 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 01:36:05 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo total: 0.92 segundos
+2026-09-09 01:36:05 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 01:36:05 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 01:36:06 | INFO | STATUS: 200
+2026-09-09 01:36:06 | INFO | Noticia extraída correctamente | Tiempo: 0.93 segundos
+2026-09-09 01:36:06 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 01:36:06 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo total: 0.93 segundos
+2026-09-09 01:36:06 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:36:06 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:36:07 | INFO | STATUS: 200
+2026-09-09 01:36:07 | INFO | Noticia extraída correctamente | Tiempo: 0.90 segundos
+2026-09-09 01:36:07 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:36:07 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo total: 0.90 segundos
+2026-09-09 01:36:07 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 01:36:07 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 01:36:08 | INFO | STATUS: 200
+2026-09-09 01:36:09 | INFO | Noticia extraída correctamente | Tiempo: 1.64 segundos
+2026-09-09 01:36:09 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 01:36:09 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo total: 1.64 segundos
+2026-09-09 01:36:09 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 01:36:09 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 01:36:10 | INFO | STATUS: 200
+2026-09-09 01:36:10 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 01:36:10 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 01:36:10 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo total: 0.84 segundos
+2026-09-09 01:36:10 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 01:36:10 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 01:36:10 | INFO | STATUS: 200
+2026-09-09 01:36:11 | INFO | Noticia extraída correctamente | Tiempo: 0.87 segundos
+2026-09-09 01:36:11 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 01:36:11 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo total: 0.87 segundos
+2026-09-09 01:36:11 | INFO | Chromium cerrado.
+2026-09-09 01:36:11 | INFO | Noticias nuevas: 20
+2026-09-09 01:36:11 | INFO | Errores: 0
+2026-09-09 01:36:11 | INFO | Total en JSON: 20
+2026-09-09 01:36:11 | INFO | Límite máximo: 100
+2026-09-09 01:36:11 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:36:11 | INFO | EJECUCION COMPLETADA | Duracion: 27.96 segundos
+2026-09-09 01:36:11 | INFO | ============================================================
+2026-09-09 01:38:05 | INFO | ============================================================
+2026-09-09 01:38:05 | INFO | INICIO DE EJECUCION
+2026-09-09 01:38:05 | INFO | ============================================================
+2026-09-09 01:38:13 | INFO | Noticias encontradas: 20
+2026-09-09 01:38:13 | INFO | Noticias ya existentes: 20
+2026-09-09 01:38:13 | INFO | Noticias nuevas: 0
+2026-09-09 01:38:13 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 01:38:13 | INFO | Noticias nuevas: 0
+2026-09-09 01:38:13 | INFO | Errores: 0
+2026-09-09 01:38:13 | INFO | Total en JSON: 20
+2026-09-09 01:38:13 | INFO | Límite máximo: 100
+2026-09-09 01:38:13 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:38:13 | INFO | EJECUCION COMPLETADA | Duracion: 8.41 segundos
+2026-09-09 01:38:13 | INFO | ============================================================
+2026-09-09 01:39:30 | INFO | ============================================================
+2026-09-09 01:39:30 | INFO | INICIO DE EJECUCION
+2026-09-09 01:39:30 | INFO | ============================================================
+2026-09-09 01:39:37 | INFO | Noticias encontradas: 20
+2026-09-09 01:39:37 | INFO | Noticias ya existentes: 16
+2026-09-09 01:39:37 | INFO | Noticias nuevas: 4
+2026-09-09 01:39:37 | INFO | Iniciando navegador Chromium...
+2026-09-09 01:39:38 | INFO | Procesando 1/4: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:39:38 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:39:40 | INFO | STATUS: 307
+2026-09-09 01:39:40 | INFO | Noticia extraída correctamente | Tiempo: 2.12 segundos
+2026-09-09 01:39:40 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 01:39:40 | INFO | Procesamiento completado | Noticia 1/4 | Tiempo total: 2.12 segundos
+2026-09-09 01:39:40 | INFO | Procesando 2/4: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:39:40 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:39:41 | INFO | STATUS: 200
+2026-09-09 01:39:41 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 01:39:41 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 01:39:41 | INFO | Procesamiento completado | Noticia 2/4 | Tiempo total: 0.84 segundos
+2026-09-09 01:39:41 | INFO | Procesando 3/4: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:39:41 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:39:42 | INFO | STATUS: 200
+2026-09-09 01:39:42 | INFO | Noticia extraída correctamente | Tiempo: 0.87 segundos
+2026-09-09 01:39:42 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 01:39:42 | INFO | Procesamiento completado | Noticia 3/4 | Tiempo total: 0.87 segundos
+2026-09-09 01:39:42 | INFO | Procesando 4/4: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:39:42 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:39:44 | INFO | STATUS: 200
+2026-09-09 01:39:44 | INFO | Noticia extraída correctamente | Tiempo: 2.17 segundos
+2026-09-09 01:39:44 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 01:39:44 | INFO | Procesamiento completado | Noticia 4/4 | Tiempo total: 2.17 segundos
+2026-09-09 01:39:44 | INFO | Chromium cerrado.
+2026-09-09 01:39:44 | INFO | Noticias nuevas: 4
+2026-09-09 01:39:44 | INFO | Errores: 0
+2026-09-09 01:39:44 | INFO | Total en JSON: 20
+2026-09-09 01:39:44 | INFO | Límite máximo: 100
+2026-09-09 01:39:44 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:39:44 | INFO | EJECUCION COMPLETADA | Duracion: 14.39 segundos
+2026-09-09 01:39:44 | INFO | ============================================================
+2026-09-09 01:42:20 | INFO | ============================================================
+2026-09-09 01:42:20 | INFO | INICIO DE EJECUCION
+2026-09-09 01:42:20 | INFO | ============================================================
+2026-09-09 01:42:28 | INFO | Noticias encontradas: 20
+2026-09-09 01:42:28 | INFO | Noticias ya existentes: 20
+2026-09-09 01:42:28 | INFO | Noticias nuevas: 0
+2026-09-09 01:42:28 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 01:42:28 | INFO | Noticias nuevas: 0
+2026-09-09 01:42:28 | INFO | Errores: 0
+2026-09-09 01:42:28 | INFO | Total en JSON: 20
+2026-09-09 01:42:28 | INFO | Límite máximo: 100
+2026-09-09 01:42:28 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 01:42:28 | INFO | EJECUCION COMPLETADA | Duracion: 7.91 segundos
+2026-09-09 01:42:28 | INFO | ============================================================
+2026-09-09 02:02:04 | INFO | ============================================================
+2026-09-09 02:02:04 | INFO | INICIO DE EJECUCION
+2026-09-09 02:02:04 | INFO | ============================================================
+2026-09-09 02:02:15 | INFO | Noticias encontradas: 20
+2026-09-09 02:02:15 | INFO | Noticias ya existentes: 20
+2026-09-09 02:02:15 | INFO | Noticias nuevas: 0
+2026-09-09 02:02:15 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 02:02:15 | INFO | Noticias nuevas: 0
+2026-09-09 02:02:15 | INFO | Errores: 0
+2026-09-09 02:02:15 | INFO | Total en JSON: 20
+2026-09-09 02:02:15 | INFO | Límite máximo: 100
+2026-09-09 02:02:15 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 02:02:15 | INFO | EJECUCION COMPLETADA | Duracion: 11.04 segundos
+2026-09-09 02:02:15 | INFO | ============================================================
+2026-09-09 02:09:46 | INFO | ============================================================
+2026-09-09 02:09:46 | INFO | INICIO DE EJECUCION
+2026-09-09 02:09:46 | INFO | ============================================================
+2026-09-09 02:09:46 | ERROR | EJECUCION FALLIDA | Duracion: 0.00 segundos
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_eldiario.py", line 67, in cargar_noticias
+    datos = json.load(archivo)
+  File "C:\Python313\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+        cls=cls, object_hook=object_hook,
+        parse_float=parse_float, parse_int=parse_int,
+        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "C:\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\json\decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_eldiario.py", line 131, in guardar_noticias
+    noticias_existentes = cargar_noticias()
+  File "D:\cPanel\Scraping_Cloudflare\guardar_eldiario.py", line 71, in cargar_noticias
+    raise Exception(
+        f"El archivo JSON está corrupto: {e}"
+    )
+Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (char 0)
+2026-09-09 02:10:40 | INFO | ============================================================
+2026-09-09 02:10:40 | INFO | INICIO DE EJECUCION
+2026-09-09 02:10:40 | INFO | ============================================================
+2026-09-09 02:10:48 | INFO | Noticias encontradas: 20
+2026-09-09 02:10:48 | INFO | Noticias ya existentes: 20
+2026-09-09 02:10:48 | INFO | Noticias nuevas: 0
+2026-09-09 02:10:48 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-09 02:10:48 | INFO | Noticias nuevas: 0
+2026-09-09 02:10:48 | INFO | Errores: 0
+2026-09-09 02:10:48 | INFO | Total en JSON: 20
+2026-09-09 02:10:48 | INFO | Límite máximo: 100
+2026-09-09 02:10:48 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 02:10:48 | INFO | EJECUCION COMPLETADA | Duracion: 8.39 segundos
+2026-09-09 02:10:48 | INFO | ============================================================
+2026-09-09 02:13:01 | INFO | ============================================================
+2026-09-09 02:13:01 | INFO | INICIO DE EJECUCION
+2026-09-09 02:13:01 | INFO | ============================================================
+2026-09-09 02:13:08 | INFO | Noticias encontradas: 20
+2026-09-09 02:13:08 | INFO | Noticias ya existentes: 0
+2026-09-09 02:13:08 | INFO | Noticias nuevas: 20
+2026-09-09 02:13:08 | INFO | Iniciando navegador Chromium...
+2026-09-09 02:13:09 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 02:13:09 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 02:13:11 | INFO | STATUS: 307
+2026-09-09 02:13:12 | INFO | Noticia extraída correctamente | Tiempo: 2.61 segundos
+2026-09-09 02:13:12 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/la-pugna-de-poder-rodea-al-tigre/
+2026-09-09 02:13:12 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo total: 2.61 segundos
+2026-09-09 02:13:12 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 02:13:12 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 02:13:12 | INFO | STATUS: 200
+2026-09-09 02:13:12 | INFO | Noticia extraída correctamente | Tiempo: 0.78 segundos
+2026-09-09 02:13:12 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/el-tigre-busca-consolidar-liderato-en-la-copa-bolivia/
+2026-09-09 02:13:12 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo total: 0.78 segundos
+2026-09-09 02:13:12 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 02:13:12 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 02:13:13 | INFO | STATUS: 200
+2026-09-09 02:13:13 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-09 02:13:13 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/confianza-fue-ratificada-a-villegas/
+2026-09-09 02:13:13 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo total: 0.81 segundos
+2026-09-09 02:13:13 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 02:13:13 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 02:13:15 | INFO | STATUS: 200
+2026-09-09 02:13:15 | INFO | Noticia extraída correctamente | Tiempo: 1.95 segundos
+2026-09-09 02:13:15 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/xiaomi-activa-su-super-ecosistema-human-x-car-x-home/
+2026-09-09 02:13:15 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo total: 1.95 segundos
+2026-09-09 02:13:15 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 02:13:15 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 02:13:16 | INFO | STATUS: 200
+2026-09-09 02:13:16 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-09 02:13:16 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/galo-sanchez-reinventa-el-romance-nupcial/
+2026-09-09 02:13:16 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo total: 0.88 segundos
+2026-09-09 02:13:16 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 02:13:16 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 02:13:17 | INFO | STATUS: 200
+2026-09-09 02:13:17 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-09 02:13:17 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/gobierno-endurece-lucha-antidroga-ante-avance-del-crimen-organizado-2/
+2026-09-09 02:13:17 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo total: 0.88 segundos
+2026-09-09 02:13:17 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 02:13:17 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 02:13:18 | INFO | STATUS: 200
+2026-09-09 02:13:18 | INFO | Noticia extraída correctamente | Tiempo: 0.83 segundos
+2026-09-09 02:13:18 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/investigan-secuestro-y-tortura-de-un-hombre-por-bs-46-000-2/
+2026-09-09 02:13:18 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo total: 0.83 segundos
+2026-09-09 02:13:18 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 02:13:18 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 02:13:18 | INFO | STATUS: 200
+2026-09-09 02:13:19 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 02:13:19 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/fiscalia-amplia-investigacion-contra-cerimedo-en-la-paz/
+2026-09-09 02:13:19 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo total: 0.84 segundos
+2026-09-09 02:13:19 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 02:13:19 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 02:13:19 | INFO | STATUS: 200
+2026-09-09 02:13:19 | INFO | Noticia extraída correctamente | Tiempo: 0.86 segundos
+2026-09-09 02:13:19 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/librecambista-queda-gravemente-herido/
+2026-09-09 02:13:19 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo total: 0.86 segundos
+2026-09-09 02:13:19 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 02:13:19 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 02:13:20 | INFO | STATUS: 200
+2026-09-09 02:13:20 | INFO | Noticia extraída correctamente | Tiempo: 0.83 segundos
+2026-09-09 02:13:20 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dos-hechos-de-transito-dejan-heridos-y-danos-materiales-3/
+2026-09-09 02:13:20 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo total: 0.83 segundos
+2026-09-09 02:13:20 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 02:13:20 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 02:13:21 | INFO | STATUS: 200
+2026-09-09 02:13:21 | INFO | Noticia extraída correctamente | Tiempo: 0.82 segundos
+2026-09-09 02:13:21 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/deportistas-recibieron-la-tricolor-en-el-cob/
+2026-09-09 02:13:21 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo total: 0.82 segundos
+2026-09-09 02:13:21 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 02:13:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 02:13:22 | INFO | STATUS: 200
+2026-09-09 02:13:22 | INFO | Noticia extraída correctamente | Tiempo: 0.82 segundos
+2026-09-09 02:13:22 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/abb-cae-frente-a-san-antonio-2-0/
+2026-09-09 02:13:22 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo total: 0.82 segundos
+2026-09-09 02:13:22 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 02:13:22 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 02:13:23 | INFO | STATUS: 200
+2026-09-09 02:13:23 | INFO | Noticia extraída correctamente | Tiempo: 0.86 segundos
+2026-09-09 02:13:23 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/aurora-supero-a-real-potosi-1-0/
+2026-09-09 02:13:23 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo total: 0.86 segundos
+2026-09-09 02:13:23 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 02:13:23 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 02:13:23 | INFO | STATUS: 200
+2026-09-09 02:13:24 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 02:13:24 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/eat-out-festeja-su-decada-con-gastronomia-y-diversion/
+2026-09-09 02:13:24 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo total: 0.84 segundos
+2026-09-09 02:13:24 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 02:13:24 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 02:13:24 | INFO | STATUS: 200
+2026-09-09 02:13:24 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 02:13:24 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/dhl-express-abre-su-quinta-tienda-en-la-paz/
+2026-09-09 02:13:24 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo total: 0.84 segundos
+2026-09-09 02:13:24 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 02:13:24 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 02:13:25 | INFO | STATUS: 200
+2026-09-09 02:13:25 | INFO | Noticia extraída correctamente | Tiempo: 0.90 segundos
+2026-09-09 02:13:25 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/betty-castaing-devela-la-propuesta-aromatica-y-la-identidad-de-lutej-cigars/
+2026-09-09 02:13:25 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo total: 0.90 segundos
+2026-09-09 02:13:25 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 02:13:25 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 02:13:27 | INFO | STATUS: 200
+2026-09-09 02:13:27 | INFO | Noticia extraída correctamente | Tiempo: 1.77 segundos
+2026-09-09 02:13:27 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/informacion-o-masoquismo-digital/
+2026-09-09 02:13:27 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo total: 1.78 segundos
+2026-09-09 02:13:27 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 02:13:27 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 02:13:29 | INFO | STATUS: 200
+2026-09-09 02:13:30 | INFO | Noticia extraída correctamente | Tiempo: 2.47 segundos
+2026-09-09 02:13:30 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/majo-jooo/
+2026-09-09 02:13:30 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo total: 2.47 segundos
+2026-09-09 02:13:30 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 02:13:30 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 02:13:31 | INFO | STATUS: 200
+2026-09-09 02:13:31 | INFO | Noticia extraída correctamente | Tiempo: 1.72 segundos
+2026-09-09 02:13:31 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/rubio-suma-a-colombia-peru-y-ecuador-a-su-mapa-de-aliados-regionales-1855/
+2026-09-09 02:13:31 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo total: 1.73 segundos
+2026-09-09 02:13:31 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 02:13:31 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 02:13:33 | INFO | STATUS: 200
+2026-09-09 02:13:33 | INFO | Noticia extraída correctamente | Tiempo: 1.78 segundos
+2026-09-09 02:13:33 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/08/honduras-enfrenta-un-tercio-de-su-territorio-afectado-por-falta-de-lluvia-1846/
+2026-09-09 02:13:33 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo total: 1.78 segundos
+2026-09-09 02:13:33 | INFO | Chromium cerrado.
+2026-09-09 02:13:33 | INFO | Noticias nuevas: 20
+2026-09-09 02:13:33 | INFO | Errores: 0
+2026-09-09 02:13:33 | INFO | Total en JSON: 20
+2026-09-09 02:13:33 | INFO | Límite máximo: 100
+2026-09-09 02:13:33 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 02:13:33 | INFO | EJECUCION COMPLETADA | Duracion: 32.66 segundos
+2026-09-09 02:13:33 | INFO | ============================================================

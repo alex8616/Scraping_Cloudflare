@@ -1,0 +1,259 @@
+2026-09-09 01:54:56 | INFO | ============================================================
+2026-09-09 01:54:56 | INFO | INICIO DE EJECUCION
+2026-09-09 01:54:56 | INFO | ============================================================
+2026-09-09 01:55:03 | ERROR | EJECUCION FALLIDA | Duracion: 6.60 segundos
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_larazon.py", line 194, in guardar_noticias
+    urls = obtener_urls_noticias(
+        limite=LIMITE_URLS
+    )
+  File "D:\cPanel\Scraping_Cloudflare\sitemap.py", line 135, in obtener_urls_noticias
+    sitemaps = obtener_sitemaps_posts()
+  File "D:\cPanel\Scraping_Cloudflare\sitemap.py", line 29, in obtener_sitemaps_posts
+    soup = BeautifulSoup(
+        response.text,
+        "xml"
+    )
+  File "C:\Users\alex\AppData\Roaming\Python\Python313\site-packages\bs4\__init__.py", line 366, in __init__
+    raise FeatureNotFound(
+    ...<3 lines>...
+    )
+bs4.exceptions.FeatureNotFound: Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2026-09-09 01:56:13 | INFO | ============================================================
+2026-09-09 01:56:13 | INFO | INICIO DE EJECUCION
+2026-09-09 01:56:13 | INFO | ============================================================
+2026-09-09 01:56:19 | ERROR | EJECUCION FALLIDA | Duracion: 6.38 segundos
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_larazon.py", line 194, in guardar_noticias
+    urls = obtener_urls_noticias(
+        limite=LIMITE_URLS
+    )
+  File "D:\cPanel\Scraping_Cloudflare\sitemap.py", line 135, in obtener_urls_noticias
+    sitemaps = obtener_sitemaps_posts()
+  File "D:\cPanel\Scraping_Cloudflare\sitemap.py", line 29, in obtener_sitemaps_posts
+    soup = BeautifulSoup(
+        response.text,
+        "xml"
+    )
+  File "C:\Users\alex\AppData\Roaming\Python\Python313\site-packages\bs4\__init__.py", line 366, in __init__
+    raise FeatureNotFound(
+    ...<3 lines>...
+    )
+bs4.exceptions.FeatureNotFound: Couldn't find a tree builder with the features you requested: xml. Do you need to install a parser library?
+2026-09-09 01:57:32 | INFO | ============================================================
+2026-09-09 01:57:32 | INFO | INICIO DE EJECUCION
+2026-09-09 01:57:32 | INFO | ============================================================
+2026-09-09 01:57:47 | INFO | Noticias encontradas: 20
+2026-09-09 01:57:47 | INFO | Noticias ya existentes: 0
+2026-09-09 01:57:47 | INFO | Noticias nuevas: 20
+2026-09-09 01:57:47 | INFO | Procesando 1/20: https://larazon.bo/opinion/columnistas/2026/09/09/la-democracia-esta-fria-vieja-y-cansada/
+2026-09-09 01:57:48 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/la-democracia-esta-fria-vieja-y-cansada/
+2026-09-09 01:57:48 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo: 0.89 segundos
+2026-09-09 01:57:48 | INFO | Procesando 2/20: https://larazon.bo/opinion/columnistas/2026/09/09/la-regla-que-sobrevive-al-mandato/
+2026-09-09 01:57:49 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/la-regla-que-sobrevive-al-mandato/
+2026-09-09 01:57:49 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo: 0.86 segundos
+2026-09-09 01:57:49 | INFO | Procesando 3/20: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-ofertara-dolares-a-bancos-para-contener-la-volatilidad-cambiaria/
+2026-09-09 01:57:50 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-ofertara-dolares-a-bancos-para-contener-la-volatilidad-cambiaria/
+2026-09-09 01:57:50 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo: 0.88 segundos
+2026-09-09 01:57:50 | INFO | Procesando 4/20: https://larazon.bo/opinion/columnistas/2026/09/09/el-dia-en-que-bolivia-dejo-de-mentirse/
+2026-09-09 01:57:50 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/el-dia-en-que-bolivia-dejo-de-mentirse/
+2026-09-09 01:57:50 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo: 0.86 segundos
+2026-09-09 01:57:50 | INFO | Procesando 5/20: https://larazon.bo/marcas/2026/09/08/vasco-da-gama-empata-en-bogota-ante-independiente-santa-fe/
+2026-09-09 01:57:51 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/vasco-da-gama-empata-en-bogota-ante-independiente-santa-fe/
+2026-09-09 01:57:51 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo: 0.96 segundos
+2026-09-09 01:57:51 | INFO | Procesando 6/20: https://larazon.bo/marcas/2026/09/08/boca-vence-1-0-a-sao-paulo-en-tenso-duelo-de-cuartos/
+2026-09-09 01:57:52 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/boca-vence-1-0-a-sao-paulo-en-tenso-duelo-de-cuartos/
+2026-09-09 01:57:52 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo: 0.84 segundos
+2026-09-09 01:57:52 | INFO | Procesando 7/20: https://larazon.bo/marcas/2026/09/08/hulk-pone-a-fluminense-a-las-puertas-de-las-semifinales/
+2026-09-09 01:57:53 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/hulk-pone-a-fluminense-a-las-puertas-de-las-semifinales/
+2026-09-09 01:57:53 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo: 0.86 segundos
+2026-09-09 01:57:53 | INFO | Procesando 8/20: https://larazon.bo/marcas/2026/09/08/oriente-petrolero-resiste-con-diez-y-manda-en-el-grupo-c/
+2026-09-09 01:57:54 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/oriente-petrolero-resiste-con-diez-y-manda-en-el-grupo-c/
+2026-09-09 01:57:54 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo: 0.87 segundos
+2026-09-09 01:57:54 | INFO | Procesando 9/20: https://larazon.bo/economia-y-empresa/2026/09/08/ylb-y-duke-university-avanzan-en-estudios-para-conocer-potencial-de-salares-bolivianos/
+2026-09-09 01:57:55 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/ylb-y-duke-university-avanzan-en-estudios-para-conocer-potencial-de-salares-bolivianos/
+2026-09-09 01:57:55 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo: 0.93 segundos
+2026-09-09 01:57:55 | INFO | Procesando 10/20: https://larazon.bo/economia-y-empresa/2026/09/08/ypfb-detecta-rezago-de-6-millones-de-litros-y-cambia-asignacion/
+2026-09-09 01:57:56 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/ypfb-detecta-rezago-de-6-millones-de-litros-y-cambia-asignacion/
+2026-09-09 01:57:56 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo: 0.92 segundos
+2026-09-09 01:57:56 | INFO | Procesando 11/20: https://larazon.bo/nacional/2026/09/08/bolivia-presenta-nueva-politica-antidroga-ante-avance-del-crimen-organizado/
+2026-09-09 01:57:57 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/bolivia-presenta-nueva-politica-antidroga-ante-avance-del-crimen-organizado/
+2026-09-09 01:57:57 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo: 0.87 segundos
+2026-09-09 01:57:57 | INFO | Procesando 12/20: https://larazon.bo/ciudades/2026/09/08/gobernacion-dispone-maquinaria-para-remocion-de-escombros-en-tras-explosiones-en-viacha/
+2026-09-09 01:57:58 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/08/gobernacion-dispone-maquinaria-para-remocion-de-escombros-en-tras-explosiones-en-viacha/
+2026-09-09 01:57:58 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo: 0.92 segundos
+2026-09-09 01:57:58 | INFO | Procesando 13/20: https://larazon.bo/nacional/2026/09/08/alp-suspende-interpelaciones-y-prioriza-leyes-para-atender-a-viacha/
+2026-09-09 01:57:59 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/alp-suspende-interpelaciones-y-prioriza-leyes-para-atender-a-viacha/
+2026-09-09 01:57:59 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo: 1.04 segundos
+2026-09-09 01:57:59 | INFO | Procesando 14/20: https://larazon.bo/sociedad/2026/09/08/la-alcaldia-de-la-paz-se-une-a-campana-de-cirugias-gratuitas-de-mano/
+2026-09-09 01:57:59 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/08/la-alcaldia-de-la-paz-se-une-a-campana-de-cirugias-gratuitas-de-mano/
+2026-09-09 01:57:59 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo: 0.87 segundos
+2026-09-09 01:57:59 | INFO | Procesando 15/20: https://larazon.bo/nacional/2026/09/08/defensa-teme-por-la-vida-de-cerimedo-y-gobierno-anuncia-aislamiento/
+2026-09-09 01:58:00 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/defensa-teme-por-la-vida-de-cerimedo-y-gobierno-anuncia-aislamiento/
+2026-09-09 01:58:00 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo: 0.87 segundos
+2026-09-09 01:58:00 | INFO | Procesando 16/20: https://larazon.bo/marcas/2026/09/08/el-betis-remonta-y-se-lleva-de-lille-una-victoria-que-vale-oro/
+2026-09-09 01:58:01 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/el-betis-remonta-y-se-lleva-de-lille-una-victoria-que-vale-oro/
+2026-09-09 01:58:01 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo: 0.87 segundos
+2026-09-09 01:58:01 | INFO | Procesando 17/20: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-inmovilizara-el-3-de-depositos-en-bolivianos-durante-6-meses/
+2026-09-09 01:58:02 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-inmovilizara-el-3-de-depositos-en-bolivianos-durante-6-meses/
+2026-09-09 01:58:02 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo: 0.84 segundos
+2026-09-09 01:58:02 | INFO | Procesando 18/20: https://larazon.bo/nacional/2026/09/08/senado-exhorta-al-gobierno-a-reparar-a-victimas-de-viacha/
+2026-09-09 01:58:03 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/senado-exhorta-al-gobierno-a-reparar-a-victimas-de-viacha/
+2026-09-09 01:58:03 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo: 0.85 segundos
+2026-09-09 01:58:03 | INFO | Procesando 19/20: https://larazon.bo/marcas/2026/09/08/city-arranca-en-la-champions-con-doblete-de-haaland-y-victoria/
+2026-09-09 01:58:04 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/city-arranca-en-la-champions-con-doblete-de-haaland-y-victoria/
+2026-09-09 01:58:04 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo: 0.85 segundos
+2026-09-09 01:58:04 | INFO | Procesando 20/20: https://larazon.bo/sociedad/2026/09/08/sedes-acerca-la-digitalizacion-del-carnet-sanitario-a-las-cabanas-del-rio-pirai/
+2026-09-09 01:58:05 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/08/sedes-acerca-la-digitalizacion-del-carnet-sanitario-a-las-cabanas-del-rio-pirai/
+2026-09-09 01:58:05 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo: 0.86 segundos
+2026-09-09 01:58:05 | INFO | Noticias nuevas: 20
+2026-09-09 01:58:05 | INFO | Errores: 0
+2026-09-09 01:58:05 | INFO | Total en JSON: 100
+2026-09-09 01:58:05 | INFO | Límite máximo: 100
+2026-09-09 01:58:05 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 01:58:05 | INFO | EJECUCION COMPLETADA | Duracion: 32.61 segundos
+2026-09-09 01:58:05 | INFO | ============================================================
+2026-09-09 01:59:54 | INFO | ============================================================
+2026-09-09 01:59:54 | INFO | INICIO DE EJECUCION
+2026-09-09 01:59:54 | INFO | ============================================================
+2026-09-09 02:00:09 | INFO | Noticias encontradas: 20
+2026-09-09 02:00:09 | INFO | Noticias ya existentes: 20
+2026-09-09 02:00:09 | INFO | Noticias nuevas: 0
+2026-09-09 02:00:09 | INFO | Noticias nuevas: 0
+2026-09-09 02:00:09 | INFO | Errores: 0
+2026-09-09 02:00:09 | INFO | Total en JSON: 100
+2026-09-09 02:00:09 | INFO | Límite máximo: 100
+2026-09-09 02:00:09 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 02:00:09 | INFO | EJECUCION COMPLETADA | Duracion: 15.00 segundos
+2026-09-09 02:00:09 | INFO | ============================================================
+2026-09-09 02:07:22 | INFO | ============================================================
+2026-09-09 02:07:22 | INFO | INICIO DE EJECUCION
+2026-09-09 02:07:22 | INFO | ============================================================
+2026-09-09 02:07:37 | INFO | Noticias encontradas: 20
+2026-09-09 02:07:37 | INFO | Noticias ya existentes: 20
+2026-09-09 02:07:37 | INFO | Noticias nuevas: 0
+2026-09-09 02:07:37 | INFO | Noticias nuevas: 0
+2026-09-09 02:07:37 | INFO | Errores: 0
+2026-09-09 02:07:37 | INFO | Total en JSON: 100
+2026-09-09 02:07:37 | INFO | Límite máximo: 100
+2026-09-09 02:07:37 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 02:07:37 | INFO | EJECUCION COMPLETADA | Duracion: 15.26 segundos
+2026-09-09 02:07:37 | INFO | ============================================================
+2026-09-09 02:09:46 | INFO | ============================================================
+2026-09-09 02:09:46 | INFO | INICIO DE EJECUCION
+2026-09-09 02:09:46 | INFO | ============================================================
+2026-09-09 02:09:46 | ERROR | EJECUCION FALLIDA | Duracion: 0.00 segundos
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_larazon.py", line 66, in cargar_noticias
+    datos = json.load(archivo)
+  File "C:\Python313\Lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+        cls=cls, object_hook=object_hook,
+        parse_float=parse_float, parse_int=parse_int,
+        parse_constant=parse_constant, object_pairs_hook=object_pairs_hook, **kw)
+  File "C:\Python313\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "C:\Python313\Lib\json\decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python313\Lib\json\decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\cPanel\Scraping_Cloudflare\guardar_larazon.py", line 182, in guardar_noticias
+    noticias_existentes = cargar_noticias()
+  File "D:\cPanel\Scraping_Cloudflare\guardar_larazon.py", line 70, in cargar_noticias
+    raise Exception(
+        f"El archivo JSON está corrupto: {e}"
+    )
+Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (char 0)
+2026-09-09 02:10:49 | INFO | ============================================================
+2026-09-09 02:10:49 | INFO | INICIO DE EJECUCION
+2026-09-09 02:10:49 | INFO | ============================================================
+2026-09-09 02:11:06 | INFO | Noticias encontradas: 20
+2026-09-09 02:11:06 | INFO | Noticias ya existentes: 20
+2026-09-09 02:11:06 | INFO | Noticias nuevas: 0
+2026-09-09 02:11:06 | INFO | Noticias nuevas: 0
+2026-09-09 02:11:06 | INFO | Errores: 0
+2026-09-09 02:11:06 | INFO | Total en JSON: 100
+2026-09-09 02:11:06 | INFO | Límite máximo: 100
+2026-09-09 02:11:06 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 02:11:06 | INFO | EJECUCION COMPLETADA | Duracion: 16.79 segundos
+2026-09-09 02:11:06 | INFO | ============================================================
+2026-09-09 02:13:34 | INFO | ============================================================
+2026-09-09 02:13:34 | INFO | INICIO DE EJECUCION
+2026-09-09 02:13:34 | INFO | ============================================================
+2026-09-09 02:13:49 | INFO | Noticias encontradas: 20
+2026-09-09 02:13:49 | INFO | Noticias ya existentes: 0
+2026-09-09 02:13:49 | INFO | Noticias nuevas: 20
+2026-09-09 02:13:49 | INFO | Procesando 1/20: https://larazon.bo/opinion/columnistas/2026/09/09/la-democracia-esta-fria-vieja-y-cansada/
+2026-09-09 02:13:50 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/la-democracia-esta-fria-vieja-y-cansada/
+2026-09-09 02:13:50 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo: 0.88 segundos
+2026-09-09 02:13:50 | INFO | Procesando 2/20: https://larazon.bo/opinion/columnistas/2026/09/09/la-regla-que-sobrevive-al-mandato/
+2026-09-09 02:13:51 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/la-regla-que-sobrevive-al-mandato/
+2026-09-09 02:13:51 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo: 0.90 segundos
+2026-09-09 02:13:51 | INFO | Procesando 3/20: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-ofertara-dolares-a-bancos-para-contener-la-volatilidad-cambiaria/
+2026-09-09 02:13:52 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-ofertara-dolares-a-bancos-para-contener-la-volatilidad-cambiaria/
+2026-09-09 02:13:52 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo: 0.89 segundos
+2026-09-09 02:13:52 | INFO | Procesando 4/20: https://larazon.bo/opinion/columnistas/2026/09/09/el-dia-en-que-bolivia-dejo-de-mentirse/
+2026-09-09 02:13:53 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/09/el-dia-en-que-bolivia-dejo-de-mentirse/
+2026-09-09 02:13:53 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo: 0.85 segundos
+2026-09-09 02:13:53 | INFO | Procesando 5/20: https://larazon.bo/marcas/2026/09/08/vasco-da-gama-empata-en-bogota-ante-independiente-santa-fe/
+2026-09-09 02:13:54 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/vasco-da-gama-empata-en-bogota-ante-independiente-santa-fe/
+2026-09-09 02:13:54 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo: 0.93 segundos
+2026-09-09 02:13:54 | INFO | Procesando 6/20: https://larazon.bo/marcas/2026/09/08/boca-vence-1-0-a-sao-paulo-en-tenso-duelo-de-cuartos/
+2026-09-09 02:13:54 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/boca-vence-1-0-a-sao-paulo-en-tenso-duelo-de-cuartos/
+2026-09-09 02:13:54 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo: 0.89 segundos
+2026-09-09 02:13:54 | INFO | Procesando 7/20: https://larazon.bo/marcas/2026/09/08/hulk-pone-a-fluminense-a-las-puertas-de-las-semifinales/
+2026-09-09 02:13:55 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/hulk-pone-a-fluminense-a-las-puertas-de-las-semifinales/
+2026-09-09 02:13:55 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo: 0.88 segundos
+2026-09-09 02:13:55 | INFO | Procesando 8/20: https://larazon.bo/marcas/2026/09/08/oriente-petrolero-resiste-con-diez-y-manda-en-el-grupo-c/
+2026-09-09 02:13:56 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/oriente-petrolero-resiste-con-diez-y-manda-en-el-grupo-c/
+2026-09-09 02:13:56 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo: 0.85 segundos
+2026-09-09 02:13:56 | INFO | Procesando 9/20: https://larazon.bo/economia-y-empresa/2026/09/08/ylb-y-duke-university-avanzan-en-estudios-para-conocer-potencial-de-salares-bolivianos/
+2026-09-09 02:13:57 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/ylb-y-duke-university-avanzan-en-estudios-para-conocer-potencial-de-salares-bolivianos/
+2026-09-09 02:13:57 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo: 0.89 segundos
+2026-09-09 02:13:57 | INFO | Procesando 10/20: https://larazon.bo/economia-y-empresa/2026/09/08/ypfb-detecta-rezago-de-6-millones-de-litros-y-cambia-asignacion/
+2026-09-09 02:13:58 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/ypfb-detecta-rezago-de-6-millones-de-litros-y-cambia-asignacion/
+2026-09-09 02:13:58 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo: 0.87 segundos
+2026-09-09 02:13:58 | INFO | Procesando 11/20: https://larazon.bo/nacional/2026/09/08/bolivia-presenta-nueva-politica-antidroga-ante-avance-del-crimen-organizado/
+2026-09-09 02:13:59 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/bolivia-presenta-nueva-politica-antidroga-ante-avance-del-crimen-organizado/
+2026-09-09 02:13:59 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo: 0.88 segundos
+2026-09-09 02:13:59 | INFO | Procesando 12/20: https://larazon.bo/ciudades/2026/09/08/gobernacion-dispone-maquinaria-para-remocion-de-escombros-en-tras-explosiones-en-viacha/
+2026-09-09 02:14:00 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/08/gobernacion-dispone-maquinaria-para-remocion-de-escombros-en-tras-explosiones-en-viacha/
+2026-09-09 02:14:00 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo: 0.88 segundos
+2026-09-09 02:14:00 | INFO | Procesando 13/20: https://larazon.bo/nacional/2026/09/08/alp-suspende-interpelaciones-y-prioriza-leyes-para-atender-a-viacha/
+2026-09-09 02:14:01 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/alp-suspende-interpelaciones-y-prioriza-leyes-para-atender-a-viacha/
+2026-09-09 02:14:01 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo: 0.94 segundos
+2026-09-09 02:14:01 | INFO | Procesando 14/20: https://larazon.bo/sociedad/2026/09/08/la-alcaldia-de-la-paz-se-une-a-campana-de-cirugias-gratuitas-de-mano/
+2026-09-09 02:14:01 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/08/la-alcaldia-de-la-paz-se-une-a-campana-de-cirugias-gratuitas-de-mano/
+2026-09-09 02:14:01 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo: 0.88 segundos
+2026-09-09 02:14:01 | INFO | Procesando 15/20: https://larazon.bo/nacional/2026/09/08/defensa-teme-por-la-vida-de-cerimedo-y-gobierno-anuncia-aislamiento/
+2026-09-09 02:14:02 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/defensa-teme-por-la-vida-de-cerimedo-y-gobierno-anuncia-aislamiento/
+2026-09-09 02:14:02 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo: 0.87 segundos
+2026-09-09 02:14:02 | INFO | Procesando 16/20: https://larazon.bo/marcas/2026/09/08/el-betis-remonta-y-se-lleva-de-lille-una-victoria-que-vale-oro/
+2026-09-09 02:14:03 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/el-betis-remonta-y-se-lleva-de-lille-una-victoria-que-vale-oro/
+2026-09-09 02:14:03 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo: 0.87 segundos
+2026-09-09 02:14:03 | INFO | Procesando 17/20: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-inmovilizara-el-3-de-depositos-en-bolivianos-durante-6-meses/
+2026-09-09 02:14:04 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/08/bcb-inmovilizara-el-3-de-depositos-en-bolivianos-durante-6-meses/
+2026-09-09 02:14:04 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo: 0.91 segundos
+2026-09-09 02:14:04 | INFO | Procesando 18/20: https://larazon.bo/nacional/2026/09/08/senado-exhorta-al-gobierno-a-reparar-a-victimas-de-viacha/
+2026-09-09 02:14:05 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/08/senado-exhorta-al-gobierno-a-reparar-a-victimas-de-viacha/
+2026-09-09 02:14:05 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo: 0.90 segundos
+2026-09-09 02:14:05 | INFO | Procesando 19/20: https://larazon.bo/marcas/2026/09/08/city-arranca-en-la-champions-con-doblete-de-haaland-y-victoria/
+2026-09-09 02:14:06 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/08/city-arranca-en-la-champions-con-doblete-de-haaland-y-victoria/
+2026-09-09 02:14:06 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo: 0.91 segundos
+2026-09-09 02:14:06 | INFO | Procesando 20/20: https://larazon.bo/sociedad/2026/09/08/sedes-acerca-la-digitalizacion-del-carnet-sanitario-a-las-cabanas-del-rio-pirai/
+2026-09-09 02:14:07 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/08/sedes-acerca-la-digitalizacion-del-carnet-sanitario-a-las-cabanas-del-rio-pirai/
+2026-09-09 02:14:07 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo: 0.87 segundos
+2026-09-09 02:14:07 | INFO | Noticias nuevas: 20
+2026-09-09 02:14:07 | INFO | Errores: 0
+2026-09-09 02:14:07 | INFO | Total en JSON: 20
+2026-09-09 02:14:07 | INFO | Límite máximo: 100
+2026-09-09 02:14:07 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 02:14:07 | INFO | EJECUCION COMPLETADA | Duracion: 33.05 segundos
+2026-09-09 02:14:07 | INFO | ============================================================
