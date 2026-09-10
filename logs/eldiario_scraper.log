@@ -491,3 +491,369 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-09 02:13:33 | INFO | Archivo: data/eldiario/noticias.json
 2026-09-09 02:13:33 | INFO | EJECUCION COMPLETADA | Duracion: 32.66 segundos
 2026-09-09 02:13:33 | INFO | ============================================================
+2026-09-09 21:44:52 | INFO | ============================================================
+2026-09-09 21:44:52 | INFO | INICIO DE EJECUCION
+2026-09-09 21:44:52 | INFO | ============================================================
+2026-09-09 21:45:05 | INFO | Noticias encontradas: 20
+2026-09-09 21:45:05 | INFO | Noticias ya existentes: 0
+2026-09-09 21:45:05 | INFO | Noticias nuevas: 20
+2026-09-09 21:45:05 | INFO | Iniciando navegador Chromium...
+2026-09-09 21:45:05 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-09 21:45:05 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-09 21:45:08 | INFO | STATUS: 307
+2026-09-09 21:45:08 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-09 21:45:08 | WARNING | Reintentando en 2 segundos...
+2026-09-09 21:45:10 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-09 21:45:11 | INFO | STATUS: 200
+2026-09-09 21:45:11 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-09 21:45:11 | WARNING | Reintentando en 4 segundos...
+2026-09-09 21:45:15 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-09 21:45:16 | INFO | STATUS: 200
+2026-09-09 21:45:16 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-09 21:45:16 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 10.27 segundos | Último error: La noticia no tiene contenido
+2026-09-09 21:45:16 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-09 21:45:16 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-09 21:45:16 | INFO | STATUS: 200
+2026-09-09 21:45:16 | INFO | Noticia extraída correctamente | Tiempo: 0.78 segundos
+2026-09-09 21:45:16 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-09 21:45:16 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo total: 0.78 segundos
+2026-09-09 21:45:16 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-09 21:45:16 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-09 21:45:17 | INFO | STATUS: 200
+2026-09-09 21:45:17 | INFO | Noticia extraída correctamente | Tiempo: 0.80 segundos
+2026-09-09 21:45:17 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-09 21:45:17 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo total: 0.80 segundos
+2026-09-09 21:45:17 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-09 21:45:17 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-09 21:45:19 | INFO | STATUS: 200
+2026-09-09 21:45:19 | INFO | Noticia extraída correctamente | Tiempo: 1.67 segundos
+2026-09-09 21:45:19 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-09 21:45:19 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo total: 1.67 segundos
+2026-09-09 21:45:19 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-09 21:45:19 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-09 21:45:20 | INFO | STATUS: 200
+2026-09-09 21:45:20 | INFO | Noticia extraída correctamente | Tiempo: 0.83 segundos
+2026-09-09 21:45:20 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-09 21:45:20 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo total: 0.83 segundos
+2026-09-09 21:45:20 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-09 21:45:20 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-09 21:45:20 | INFO | STATUS: 200
+2026-09-09 21:45:21 | INFO | Noticia extraída correctamente | Tiempo: 0.79 segundos
+2026-09-09 21:45:21 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-09 21:45:21 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo total: 0.79 segundos
+2026-09-09 21:45:21 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-09 21:45:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-09 21:45:21 | INFO | STATUS: 200
+2026-09-09 21:45:21 | INFO | Noticia extraída correctamente | Tiempo: 0.77 segundos
+2026-09-09 21:45:21 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-09 21:45:21 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo total: 0.77 segundos
+2026-09-09 21:45:21 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-09 21:45:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-09 21:45:22 | INFO | STATUS: 200
+2026-09-09 21:45:22 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-09 21:45:22 | WARNING | Reintentando en 2 segundos...
+2026-09-09 21:45:24 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-09 21:45:25 | INFO | STATUS: 200
+2026-09-09 21:45:25 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-09 21:45:25 | WARNING | Reintentando en 4 segundos...
+2026-09-09 21:45:29 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-09 21:45:30 | INFO | STATUS: 200
+2026-09-09 21:45:30 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-09 21:45:30 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 8.45 segundos | Último error: La noticia no tiene contenido
+2026-09-09 21:45:30 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-09 21:45:30 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-09 21:45:30 | INFO | STATUS: 200
+2026-09-09 21:45:31 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-09 21:45:31 | WARNING | Reintentando en 2 segundos...
+2026-09-09 21:45:33 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-09 21:45:33 | INFO | STATUS: 200
+2026-09-09 21:45:33 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-09 21:45:33 | WARNING | Reintentando en 4 segundos...
+2026-09-09 21:45:37 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-09 21:45:38 | INFO | STATUS: 200
+2026-09-09 21:45:38 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-09 21:45:38 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 8.38 segundos | Último error: La noticia no tiene contenido
+2026-09-09 21:45:38 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-09 21:45:38 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-09 21:45:40 | INFO | STATUS: 200
+2026-09-09 21:45:40 | INFO | Noticia extraída correctamente | Tiempo: 1.68 segundos
+2026-09-09 21:45:40 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-09 21:45:40 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo total: 1.68 segundos
+2026-09-09 21:45:40 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-09 21:45:40 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-09 21:45:40 | INFO | STATUS: 200
+2026-09-09 21:45:41 | INFO | Noticia extraída correctamente | Tiempo: 0.80 segundos
+2026-09-09 21:45:41 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-09 21:45:41 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo total: 0.80 segundos
+2026-09-09 21:45:41 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-09 21:45:41 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-09 21:45:41 | INFO | STATUS: 200
+2026-09-09 21:45:41 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-09 21:45:41 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-09 21:45:41 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo total: 0.84 segundos
+2026-09-09 21:45:41 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-09 21:45:41 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-09 21:45:42 | INFO | STATUS: 200
+2026-09-09 21:45:42 | INFO | Noticia extraída correctamente | Tiempo: 0.79 segundos
+2026-09-09 21:45:42 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-09 21:45:42 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo total: 0.79 segundos
+2026-09-09 21:45:42 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-09 21:45:42 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-09 21:45:43 | INFO | STATUS: 200
+2026-09-09 21:45:43 | INFO | Noticia extraída correctamente | Tiempo: 0.78 segundos
+2026-09-09 21:45:43 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-09 21:45:43 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo total: 0.78 segundos
+2026-09-09 21:45:43 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-09 21:45:43 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-09 21:45:44 | INFO | STATUS: 200
+2026-09-09 21:45:44 | INFO | Noticia extraída correctamente | Tiempo: 0.79 segundos
+2026-09-09 21:45:44 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-09 21:45:44 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo total: 0.79 segundos
+2026-09-09 21:45:44 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-09 21:45:44 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-09 21:45:44 | INFO | STATUS: 200
+2026-09-09 21:45:45 | INFO | Noticia extraída correctamente | Tiempo: 0.80 segundos
+2026-09-09 21:45:45 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-09 21:45:45 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo total: 0.80 segundos
+2026-09-09 21:45:45 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-09 21:45:45 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-09 21:45:45 | INFO | STATUS: 200
+2026-09-09 21:45:45 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-09 21:45:45 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-09 21:45:45 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo total: 0.81 segundos
+2026-09-09 21:45:45 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-09 21:45:45 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-09 21:45:46 | INFO | STATUS: 200
+2026-09-09 21:45:46 | INFO | Noticia extraída correctamente | Tiempo: 0.78 segundos
+2026-09-09 21:45:46 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-09 21:45:46 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo total: 0.78 segundos
+2026-09-09 21:45:46 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-09 21:45:46 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-09 21:45:48 | INFO | STATUS: 200
+2026-09-09 21:45:48 | INFO | Noticia extraída correctamente | Tiempo: 1.66 segundos
+2026-09-09 21:45:48 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-09 21:45:48 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo total: 1.66 segundos
+2026-09-09 21:45:48 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-09 21:45:48 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-09 21:45:49 | INFO | STATUS: 200
+2026-09-09 21:45:50 | INFO | Noticia extraída correctamente | Tiempo: 1.77 segundos
+2026-09-09 21:45:50 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-09 21:45:50 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo total: 1.77 segundos
+2026-09-09 21:45:50 | INFO | Chromium cerrado.
+2026-09-09 21:45:50 | INFO | Noticias nuevas: 17
+2026-09-09 21:45:50 | INFO | Errores: 3
+2026-09-09 21:45:50 | INFO | Total en JSON: 37
+2026-09-09 21:45:50 | INFO | Límite máximo: 100
+2026-09-09 21:45:50 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-09 21:45:50 | INFO | EJECUCION COMPLETADA | Duracion: 57.64 segundos
+2026-09-09 21:45:50 | INFO | ============================================================
+2026-09-10 00:35:54 | INFO | ============================================================
+2026-09-10 00:35:54 | INFO | INICIO DE EJECUCION
+2026-09-10 00:35:54 | INFO | ============================================================
+2026-09-10 00:36:07 | INFO | Noticias encontradas: 20
+2026-09-10 00:36:07 | INFO | Noticias ya existentes: 17
+2026-09-10 00:36:07 | INFO | Noticias nuevas: 3
+2026-09-10 00:36:07 | INFO | Iniciando navegador Chromium...
+2026-09-10 00:36:08 | INFO | Procesando 1/3: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:36:08 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:36:10 | INFO | STATUS: 307
+2026-09-10 00:36:11 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:36:11 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:36:13 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:36:13 | INFO | STATUS: 200
+2026-09-10 00:36:14 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:36:14 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:36:18 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:36:19 | INFO | STATUS: 200
+2026-09-10 00:36:19 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:36:19 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 10.87 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:36:19 | INFO | Procesando 2/3: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:36:19 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:36:19 | INFO | STATUS: 200
+2026-09-10 00:36:20 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:36:20 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:36:22 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:36:22 | INFO | STATUS: 200
+2026-09-10 00:36:22 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:36:22 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:36:26 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:36:27 | INFO | STATUS: 200
+2026-09-10 00:36:27 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:36:27 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 8.56 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:36:27 | INFO | Procesando 3/3: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:36:27 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:36:28 | INFO | STATUS: 200
+2026-09-10 00:36:28 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:36:28 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:36:30 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:36:31 | INFO | STATUS: 200
+2026-09-10 00:36:31 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:36:31 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:36:35 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:36:36 | INFO | STATUS: 200
+2026-09-10 00:36:36 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:36:36 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 8.78 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:36:36 | INFO | Chromium cerrado.
+2026-09-10 00:36:36 | INFO | Noticias nuevas: 0
+2026-09-10 00:36:36 | INFO | Errores: 3
+2026-09-10 00:36:36 | INFO | Total en JSON: 37
+2026-09-10 00:36:36 | INFO | Límite máximo: 100
+2026-09-10 00:36:36 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-10 00:36:36 | INFO | EJECUCION COMPLETADA | Duracion: 42.12 segundos
+2026-09-10 00:36:36 | INFO | ============================================================
+2026-09-10 00:42:43 | INFO | ============================================================
+2026-09-10 00:42:43 | INFO | INICIO DE EJECUCION
+2026-09-10 00:42:43 | INFO | ============================================================
+2026-09-10 00:42:53 | INFO | Noticias encontradas: 20
+2026-09-10 00:42:53 | INFO | Noticias ya existentes: 0
+2026-09-10 00:42:53 | INFO | Noticias nuevas: 20
+2026-09-10 00:42:53 | INFO | Iniciando navegador Chromium...
+2026-09-10 00:42:54 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:42:54 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:42:56 | INFO | STATUS: 307
+2026-09-10 00:42:57 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:42:57 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:42:59 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:43:00 | INFO | STATUS: 200
+2026-09-10 00:43:00 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:43:00 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:43:05 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/
+2026-09-10 00:43:05 | INFO | STATUS: 200
+2026-09-10 00:43:06 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:43:06 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/petroleo-supera-los-100-dolares-lluvias-y-desbordamientos-en-japon-advierten-riesgo-por-ia-1732/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 12.11 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:43:06 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-10 00:43:06 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-10 00:43:07 | INFO | STATUS: 200
+2026-09-10 00:43:07 | INFO | Noticia extraída correctamente | Tiempo: 1.04 segundos
+2026-09-10 00:43:07 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/camion-de-arena-sufre-un-vuelco-en-ciudadela-ferroviaria-1428/
+2026-09-10 00:43:07 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo total: 1.04 segundos
+2026-09-10 00:43:07 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-10 00:43:07 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-10 00:43:08 | INFO | STATUS: 200
+2026-09-10 00:43:08 | INFO | Noticia extraída correctamente | Tiempo: 0.90 segundos
+2026-09-10 00:43:08 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/nueva-york-revela-datos-de-toxicidad-del-aire-tras-11-s/
+2026-09-10 00:43:08 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo total: 0.90 segundos
+2026-09-10 00:43:08 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-10 00:43:08 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-10 00:43:09 | INFO | STATUS: 200
+2026-09-10 00:43:09 | INFO | Noticia extraída correctamente | Tiempo: 0.96 segundos
+2026-09-10 00:43:09 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/falta-de-diesel-frena-obras-de-municipios-en-cochabamba/
+2026-09-10 00:43:09 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo total: 0.96 segundos
+2026-09-10 00:43:09 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-10 00:43:09 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-10 00:43:10 | INFO | STATUS: 200
+2026-09-10 00:43:10 | INFO | Noticia extraída correctamente | Tiempo: 0.95 segundos
+2026-09-10 00:43:10 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/fiscalia-resguarda-48-bolsas-con-restos/
+2026-09-10 00:43:10 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo total: 0.95 segundos
+2026-09-10 00:43:10 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-10 00:43:10 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-10 00:43:11 | INFO | STATUS: 200
+2026-09-10 00:43:11 | INFO | Noticia extraída correctamente | Tiempo: 1.02 segundos
+2026-09-10 00:43:11 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/bcb-oferta-dolares-al-mercado-financiero/
+2026-09-10 00:43:11 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo total: 1.02 segundos
+2026-09-10 00:43:11 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-10 00:43:11 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-10 00:43:12 | INFO | STATUS: 200
+2026-09-10 00:43:12 | INFO | Noticia extraída correctamente | Tiempo: 0.95 segundos
+2026-09-10 00:43:12 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/concejales-instalan-huelga-de-hambre-por-contrato-de-personal/
+2026-09-10 00:43:12 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo total: 0.95 segundos
+2026-09-10 00:43:12 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:43:12 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:43:12 | INFO | STATUS: 200
+2026-09-10 00:43:13 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:43:13 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:43:15 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:43:16 | INFO | STATUS: 200
+2026-09-10 00:43:16 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:43:16 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:43:20 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/
+2026-09-10 00:43:21 | INFO | STATUS: 200
+2026-09-10 00:43:21 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:43:21 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/vidrio-roto-y-tension-en-el-edificio-donde-protestan-concejales-pacenos-1250/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 9.71 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:43:21 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:43:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:43:22 | INFO | STATUS: 200
+2026-09-10 00:43:23 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-10 00:43:23 | WARNING | Reintentando en 2 segundos...
+2026-09-10 00:43:25 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:43:25 | INFO | STATUS: 200
+2026-09-10 00:43:26 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-10 00:43:26 | WARNING | Reintentando en 4 segundos...
+2026-09-10 00:43:30 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/
+2026-09-10 00:43:30 | INFO | STATUS: 200
+2026-09-10 00:43:30 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-10 00:43:30 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/09/puede-un-alma-digital-elegir-el-bien-trotti-lo-pregunta-en-su-nueva-novela-1222/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 8.90 segundos | Último error: La noticia no tiene contenido
+2026-09-10 00:43:30 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-10 00:43:30 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-10 00:43:31 | INFO | STATUS: 200
+2026-09-10 00:43:31 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-10 00:43:31 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/investigan-y-rapto-de-una-mujer-en-entre-rios/
+2026-09-10 00:43:31 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo total: 0.84 segundos
+2026-09-10 00:43:31 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-10 00:43:31 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-10 00:43:33 | INFO | STATUS: 200
+2026-09-10 00:43:33 | INFO | Noticia extraída correctamente | Tiempo: 1.73 segundos
+2026-09-10 00:43:33 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/onu-advierte-presencia-de-mafias-y-redes-transnacionales-en-bolivia/
+2026-09-10 00:43:33 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo total: 1.73 segundos
+2026-09-10 00:43:33 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-10 00:43:33 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-10 00:43:34 | INFO | STATUS: 200
+2026-09-10 00:43:34 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-10 00:43:34 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/suspenden-busqueda-de-desaparecidos-en-viacha/
+2026-09-10 00:43:34 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo total: 0.88 segundos
+2026-09-10 00:43:34 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-10 00:43:34 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-10 00:43:34 | INFO | STATUS: 200
+2026-09-10 00:43:35 | INFO | Noticia extraída correctamente | Tiempo: 0.95 segundos
+2026-09-10 00:43:35 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-que-desapareceran-los-taxipartidos/
+2026-09-10 00:43:35 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo total: 0.95 segundos
+2026-09-10 00:43:35 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-10 00:43:35 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-10 00:43:36 | INFO | STATUS: 200
+2026-09-10 00:43:36 | INFO | Noticia extraída correctamente | Tiempo: 0.91 segundos
+2026-09-10 00:43:36 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/pasajeros-denuncian-dificultades-para-abordar-vuelos-de-boa/
+2026-09-10 00:43:36 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo total: 0.91 segundos
+2026-09-10 00:43:36 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-10 00:43:36 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-10 00:43:36 | INFO | STATUS: 200
+2026-09-10 00:43:37 | INFO | Noticia extraída correctamente | Tiempo: 0.82 segundos
+2026-09-10 00:43:37 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/bcb-ofertara-dolares-al-sistema-financiero/
+2026-09-10 00:43:37 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo total: 0.82 segundos
+2026-09-10 00:43:37 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-10 00:43:37 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-10 00:43:37 | INFO | STATUS: 200
+2026-09-10 00:43:37 | INFO | Noticia extraída correctamente | Tiempo: 0.89 segundos
+2026-09-10 00:43:37 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/ladrones-huyen-con-varias-pinturas-de-museo-en-francia/
+2026-09-10 00:43:37 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo total: 0.89 segundos
+2026-09-10 00:43:37 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-10 00:43:37 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-10 00:43:38 | INFO | STATUS: 200
+2026-09-10 00:43:38 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-10 00:43:38 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/presidente-del-tse-adelanta-el-final-de-los-taxipartidos/
+2026-09-10 00:43:38 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo total: 0.84 segundos
+2026-09-10 00:43:38 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-10 00:43:38 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-10 00:43:39 | INFO | STATUS: 200
+2026-09-10 00:43:39 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-10 00:43:39 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/marinkovic-pide-no-perjudicar-a-alp-con-mas-interpelaciones/
+2026-09-10 00:43:39 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo total: 0.88 segundos
+2026-09-10 00:43:39 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-10 00:43:39 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-10 00:43:40 | INFO | STATUS: 200
+2026-09-10 00:43:40 | INFO | Noticia extraída correctamente | Tiempo: 0.86 segundos
+2026-09-10 00:43:40 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/nuevo-modelo-de-desarrollo-no-debe-depender-del-gobierno-2/
+2026-09-10 00:43:40 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo total: 0.86 segundos
+2026-09-10 00:43:40 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-10 00:43:40 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-10 00:43:41 | INFO | STATUS: 200
+2026-09-10 00:43:41 | INFO | Noticia extraída correctamente | Tiempo: 0.86 segundos
+2026-09-10 00:43:41 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/09/senadora-anez-cuestiona-credito-de-us-40-millones-para-el-inra/
+2026-09-10 00:43:41 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo total: 0.86 segundos
+2026-09-10 00:43:41 | INFO | Chromium cerrado.
+2026-09-10 00:43:41 | INFO | Noticias nuevas: 17
+2026-09-10 00:43:41 | INFO | Errores: 3
+2026-09-10 00:43:41 | INFO | Total en JSON: 17
+2026-09-10 00:43:41 | INFO | Límite máximo: 100
+2026-09-10 00:43:41 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-10 00:43:41 | INFO | EJECUCION COMPLETADA | Duracion: 57.61 segundos
+2026-09-10 00:43:41 | INFO | ============================================================

@@ -257,3 +257,108 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-09 02:14:07 | INFO | Archivo: data/larazon/noticias.json
 2026-09-09 02:14:07 | INFO | EJECUCION COMPLETADA | Duracion: 33.05 segundos
 2026-09-09 02:14:07 | INFO | ============================================================
+2026-09-09 21:45:51 | INFO | ============================================================
+2026-09-09 21:45:51 | INFO | INICIO DE EJECUCION
+2026-09-09 21:45:51 | INFO | ============================================================
+2026-09-09 21:46:08 | INFO | Noticias encontradas: 20
+2026-09-09 21:46:08 | INFO | Noticias ya existentes: 0
+2026-09-09 21:46:08 | INFO | Noticias nuevas: 20
+2026-09-09 21:46:08 | INFO | Procesando 1/20: https://larazon.bo/marcas/2026/09/09/el-tigre-vence-y-lidera-el-c-tras-triunfo-ante-fcu/
+2026-09-09 21:46:09 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/09/el-tigre-vence-y-lidera-el-c-tras-triunfo-ante-fcu/
+2026-09-09 21:46:09 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo: 0.87 segundos
+2026-09-09 21:46:09 | INFO | Procesando 2/20: https://larazon.bo/ciudades/2026/09/09/santa-cruz-endurece-su-exigencia-por-combustibles-y-da-plazo-hasta-el-10-de-octubre/
+2026-09-09 21:46:10 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/santa-cruz-endurece-su-exigencia-por-combustibles-y-da-plazo-hasta-el-10-de-octubre/
+2026-09-09 21:46:10 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo: 0.81 segundos
+2026-09-09 21:46:10 | INFO | Procesando 3/20: https://larazon.bo/nacional/2026/09/09/gobierno-crea-secretaria-privada-de-la-presidencia-y-designa-a-cespedes/
+2026-09-09 21:46:11 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/09/gobierno-crea-secretaria-privada-de-la-presidencia-y-designa-a-cespedes/
+2026-09-09 21:46:11 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo: 0.82 segundos
+2026-09-09 21:46:11 | INFO | Procesando 4/20: https://larazon.bo/sociales/2026/09/09/brasil-celebro-el-aniversario-de-su-fundacion/
+2026-09-09 21:46:12 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociales/2026/09/09/brasil-celebro-el-aniversario-de-su-fundacion/
+2026-09-09 21:46:12 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo: 0.86 segundos
+2026-09-09 21:46:12 | INFO | Procesando 5/20: https://larazon.bo/ciudades/2026/09/09/gobernacion-logra-levantar-el-bloqueo-en-colpa-belgica-y-compromete-obras-de-defensivos/
+2026-09-09 21:46:13 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/gobernacion-logra-levantar-el-bloqueo-en-colpa-belgica-y-compromete-obras-de-defensivos/
+2026-09-09 21:46:13 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo: 0.96 segundos
+2026-09-09 21:46:13 | INFO | Procesando 6/20: https://larazon.bo/sociales/2026/09/09/una-recepcion-para-el-mato-a-un-policia-motorizado/
+2026-09-09 21:46:14 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociales/2026/09/09/una-recepcion-para-el-mato-a-un-policia-motorizado/
+2026-09-09 21:46:14 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo: 0.84 segundos
+2026-09-09 21:46:14 | INFO | Procesando 7/20: https://larazon.bo/ciudades/2026/09/09/velasco-plantea-liberar-de-iva-e-it-la-importacion-de-combustibles/
+2026-09-09 21:46:14 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/velasco-plantea-liberar-de-iva-e-it-la-importacion-de-combustibles/
+2026-09-09 21:46:14 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo: 0.81 segundos
+2026-09-09 21:46:14 | INFO | Procesando 8/20: https://larazon.bo/sociedad/2026/09/09/sucre-clausuran-hogar-de-adultos-mayores-que-operaba-sin-cumplir-estandares/
+2026-09-09 21:46:15 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/09/sucre-clausuran-hogar-de-adultos-mayores-que-operaba-sin-cumplir-estandares/
+2026-09-09 21:46:15 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo: 0.85 segundos
+2026-09-09 21:46:15 | INFO | Procesando 9/20: https://larazon.bo/lr-article/2026/09/09/unodc-senala-que-bolivia-concentra-el-15-de-la-cocaina-andina/
+2026-09-09 21:46:16 | INFO | NOTICIA GUARDADA: https://larazon.bo/lr-article/2026/09/09/unodc-senala-que-bolivia-concentra-el-15-de-la-cocaina-andina/
+2026-09-09 21:46:16 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo: 0.85 segundos
+2026-09-09 21:46:16 | INFO | Procesando 10/20: https://larazon.bo/ciudades/2026/09/09/la-paz-la-alcaldia-instalara-reductores-de-velocidad-en-la-avenida-del-poeta/
+2026-09-09 21:46:17 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/la-paz-la-alcaldia-instalara-reductores-de-velocidad-en-la-avenida-del-poeta/
+2026-09-09 21:46:17 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo: 0.85 segundos
+2026-09-09 21:46:17 | INFO | Procesando 11/20: https://larazon.bo/nacional/2026/09/09/tse-el-acoso-y-la-violencia-politica-obligo-a-dimitir-a-10-mujeres-electas/
+2026-09-09 21:46:18 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/09/tse-el-acoso-y-la-violencia-politica-obligo-a-dimitir-a-10-mujeres-electas/
+2026-09-09 21:46:18 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo: 0.97 segundos
+2026-09-09 21:46:18 | INFO | Procesando 12/20: https://larazon.bo/nacional/2026/09/09/reforma-judicial-plantea-nuevo-modelo-para-elegir-magistrados/
+2026-09-09 21:46:19 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/09/reforma-judicial-plantea-nuevo-modelo-para-elegir-magistrados/
+2026-09-09 21:46:19 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo: 0.84 segundos
+2026-09-09 21:46:19 | INFO | Procesando 13/20: https://larazon.bo/sociedad/2026/09/09/gobernacion-suma-aliados-para-ayudar-a-adolescentes-en-situacion-de-vulnerabilidad/
+2026-09-09 21:46:20 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/09/gobernacion-suma-aliados-para-ayudar-a-adolescentes-en-situacion-de-vulnerabilidad/
+2026-09-09 21:46:20 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo: 0.98 segundos
+2026-09-09 21:46:20 | INFO | Procesando 14/20: https://larazon.bo/sociedad/2026/09/09/mision-internacional-evalua-en-bolivia-el-control-del-sarampion/
+2026-09-09 21:46:21 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/09/mision-internacional-evalua-en-bolivia-el-control-del-sarampion/
+2026-09-09 21:46:21 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo: 0.87 segundos
+2026-09-09 21:46:21 | INFO | Procesando 15/20: https://larazon.bo/economia-y-empresa/2026/09/09/alivio-tributario-alcanza-a-252-780-contribuyentes-y-condona-unos-bs-4-000-mm/
+2026-09-09 21:46:21 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/09/alivio-tributario-alcanza-a-252-780-contribuyentes-y-condona-unos-bs-4-000-mm/
+2026-09-09 21:46:21 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo: 0.83 segundos
+2026-09-09 21:46:21 | INFO | Procesando 16/20: https://larazon.bo/economia-y-empresa/2026/09/09/gobierno-instala-mesa-tecnica-para-redaccion-del-nuevo-codigo-minero/
+2026-09-09 21:46:22 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/09/gobierno-instala-mesa-tecnica-para-redaccion-del-nuevo-codigo-minero/
+2026-09-09 21:46:22 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo: 0.86 segundos
+2026-09-09 21:46:22 | INFO | Procesando 17/20: https://larazon.bo/ciudades/2026/09/09/tramites-gobernacion-crucena-elimina-pagos-en-efectivo/
+2026-09-09 21:46:23 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/tramites-gobernacion-crucena-elimina-pagos-en-efectivo/
+2026-09-09 21:46:23 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo: 0.83 segundos
+2026-09-09 21:46:23 | INFO | Procesando 18/20: https://larazon.bo/economia-y-empresa/2026/09/09/caneb-aclara-alcance-del-reajuste-portuario-de-216-en-arica/
+2026-09-09 21:46:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/09/caneb-aclara-alcance-del-reajuste-portuario-de-216-en-arica/
+2026-09-09 21:46:24 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo: 0.87 segundos
+2026-09-09 21:46:24 | INFO | Procesando 19/20: https://larazon.bo/ciudades/2026/09/09/explosion-en-viacha-idif-toma-pruebas-a-restos-para-identificar-a-victimas/
+2026-09-09 21:46:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/09/explosion-en-viacha-idif-toma-pruebas-a-restos-para-identificar-a-victimas/
+2026-09-09 21:46:25 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo: 0.88 segundos
+2026-09-09 21:46:25 | INFO | Procesando 20/20: https://larazon.bo/economia-y-empresa/2026/09/09/hidrocarburos-anuncia-seleccion-por-meritocracia-para-reorganizar-ypfb/
+2026-09-09 21:46:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/09/hidrocarburos-anuncia-seleccion-por-meritocracia-para-reorganizar-ypfb/
+2026-09-09 21:46:26 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo: 0.85 segundos
+2026-09-09 21:46:26 | INFO | Noticias nuevas: 20
+2026-09-09 21:46:26 | INFO | Errores: 0
+2026-09-09 21:46:26 | INFO | Total en JSON: 40
+2026-09-09 21:46:26 | INFO | Límite máximo: 100
+2026-09-09 21:46:26 | INFO | Archivo: data/larazon/noticias.json
+2026-09-09 21:46:26 | INFO | EJECUCION COMPLETADA | Duracion: 34.63 segundos
+2026-09-09 21:46:26 | INFO | ============================================================
+2026-09-10 00:36:38 | INFO | ============================================================
+2026-09-10 00:36:38 | INFO | INICIO DE EJECUCION
+2026-09-10 00:36:38 | INFO | ============================================================
+2026-09-10 00:36:58 | INFO | Noticias encontradas: 20
+2026-09-10 00:36:58 | INFO | Noticias ya existentes: 18
+2026-09-10 00:36:58 | INFO | Noticias nuevas: 2
+2026-09-10 00:36:58 | INFO | Procesando 1/2: https://larazon.bo/economia-y-empresa/2026/09/10/licitacion-del-zinc-empresa-demandante-comercializaba-granos-hasta-hace-un-ano/
+2026-09-10 00:36:59 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/10/licitacion-del-zinc-empresa-demandante-comercializaba-granos-hasta-hace-un-ano/
+2026-09-10 00:36:59 | INFO | Procesamiento completado | Noticia 1/2 | Tiempo: 0.93 segundos
+2026-09-10 00:36:59 | INFO | Procesando 2/2: https://larazon.bo/economia-y-empresa/2026/09/09/cabotur-advierte-que-la-incertidumbre-frena-recuperacion-del-turismo/
+2026-09-10 00:37:00 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/09/cabotur-advierte-que-la-incertidumbre-frena-recuperacion-del-turismo/
+2026-09-10 00:37:00 | INFO | Procesamiento completado | Noticia 2/2 | Tiempo: 0.95 segundos
+2026-09-10 00:37:00 | INFO | Noticias nuevas: 2
+2026-09-10 00:37:00 | INFO | Errores: 0
+2026-09-10 00:37:00 | INFO | Total en JSON: 42
+2026-09-10 00:37:00 | INFO | Límite máximo: 100
+2026-09-10 00:37:00 | INFO | Archivo: data/larazon/noticias.json
+2026-09-10 00:37:00 | INFO | EJECUCION COMPLETADA | Duracion: 21.80 segundos
+2026-09-10 00:37:00 | INFO | ============================================================
+2026-09-10 00:43:42 | INFO | ============================================================
+2026-09-10 00:43:42 | INFO | INICIO DE EJECUCION
+2026-09-10 00:43:42 | INFO | ============================================================
+2026-09-10 00:43:58 | INFO | Noticias encontradas: 20
+2026-09-10 00:43:58 | INFO | Noticias ya existentes: 20
+2026-09-10 00:43:58 | INFO | Noticias nuevas: 0
+2026-09-10 00:43:58 | INFO | Noticias nuevas: 0
+2026-09-10 00:43:58 | INFO | Errores: 0
+2026-09-10 00:43:58 | INFO | Total en JSON: 42
+2026-09-10 00:43:58 | INFO | Límite máximo: 100
+2026-09-10 00:43:58 | INFO | Archivo: data/larazon/noticias.json
+2026-09-10 00:43:58 | INFO | EJECUCION COMPLETADA | Duracion: 16.63 segundos
+2026-09-10 00:43:58 | INFO | ============================================================
