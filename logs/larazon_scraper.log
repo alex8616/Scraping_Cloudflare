@@ -362,3 +362,76 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-10 00:43:58 | INFO | Archivo: data/larazon/noticias.json
 2026-09-10 00:43:58 | INFO | EJECUCION COMPLETADA | Duracion: 16.63 segundos
 2026-09-10 00:43:58 | INFO | ============================================================
+2026-09-11 00:16:52 | INFO | ============================================================
+2026-09-11 00:16:52 | INFO | INICIO DE EJECUCION
+2026-09-11 00:16:52 | INFO | ============================================================
+2026-09-11 00:17:09 | INFO | Noticias encontradas: 20
+2026-09-11 00:17:09 | INFO | Noticias ya existentes: 0
+2026-09-11 00:17:09 | INFO | Noticias nuevas: 20
+2026-09-11 00:17:09 | INFO | Procesando 1/20: https://larazon.bo/voces/2026/09/11/la-cumbre-iberoamericana-el-rey-y-ceuta/
+2026-09-11 00:17:10 | INFO | NOTICIA GUARDADA: https://larazon.bo/voces/2026/09/11/la-cumbre-iberoamericana-el-rey-y-ceuta/
+2026-09-11 00:17:10 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo: 1.09 segundos
+2026-09-11 00:17:10 | INFO | Procesando 2/20: https://larazon.bo/voces/2026/09/11/otra-vez-el-centralismo/
+2026-09-11 00:17:11 | INFO | NOTICIA GUARDADA: https://larazon.bo/voces/2026/09/11/otra-vez-el-centralismo/
+2026-09-11 00:17:11 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo: 0.87 segundos
+2026-09-11 00:17:11 | INFO | Procesando 3/20: https://larazon.bo/opinion/columnistas/2026/09/10/yo-soy-la-autoridad/
+2026-09-11 00:17:12 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/10/yo-soy-la-autoridad/
+2026-09-11 00:17:12 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo: 1.01 segundos
+2026-09-11 00:17:12 | INFO | Procesando 4/20: https://larazon.bo/nacional/2026/09/10/del-granado-alerta-de-riesgo-de-nulidad-en-reforma-de-la-cpe/
+2026-09-11 00:17:13 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/del-granado-alerta-de-riesgo-de-nulidad-en-reforma-de-la-cpe/
+2026-09-11 00:17:13 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo: 0.84 segundos
+2026-09-11 00:17:13 | INFO | Procesando 5/20: https://larazon.bo/marcas/2026/09/10/bolivar-iguala-1-1-ante-inde-always-pierde-en-tarija/
+2026-09-11 00:17:14 | INFO | NOTICIA GUARDADA: https://larazon.bo/marcas/2026/09/10/bolivar-iguala-1-1-ante-inde-always-pierde-en-tarija/
+2026-09-11 00:17:14 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo: 0.95 segundos
+2026-09-11 00:17:14 | INFO | Procesando 6/20: https://larazon.bo/nacional/2026/09/10/comision-aprueba-proyecto-de-ampliacion-del-estado-de-excepcion-por-90-dias/
+2026-09-11 00:17:15 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/comision-aprueba-proyecto-de-ampliacion-del-estado-de-excepcion-por-90-dias/
+2026-09-11 00:17:15 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo: 0.85 segundos
+2026-09-11 00:17:15 | INFO | Procesando 7/20: https://larazon.bo/nacional/2026/09/10/bolivia-y-eeuu-acuerdan-fortalecer-la-relacion-bilateral/
+2026-09-11 00:17:15 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/bolivia-y-eeuu-acuerdan-fortalecer-la-relacion-bilateral/
+2026-09-11 00:17:15 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo: 0.85 segundos
+2026-09-11 00:17:15 | INFO | Procesando 8/20: https://larazon.bo/nacional/2026/09/10/andronico-rechaza-acusaciones-de-evo-y-le-pide-pruebas/
+2026-09-11 00:17:16 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/andronico-rechaza-acusaciones-de-evo-y-le-pide-pruebas/
+2026-09-11 00:17:16 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo: 0.86 segundos
+2026-09-11 00:17:16 | INFO | Procesando 9/20: https://larazon.bo/sociedad/2026/09/10/diputados-aprueban-resolucion-para-acelerar-leyes-en-favor-de-las-victimas-de-viacha/
+2026-09-11 00:17:17 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/10/diputados-aprueban-resolucion-para-acelerar-leyes-en-favor-de-las-victimas-de-viacha/
+2026-09-11 00:17:17 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo: 0.91 segundos
+2026-09-11 00:17:17 | INFO | Procesando 10/20: https://larazon.bo/mundo/2026/09/10/guerra-en-oriente-medio-mantiene-el-petroleo-sobre-us-100/
+2026-09-11 00:17:18 | INFO | NOTICIA GUARDADA: https://larazon.bo/mundo/2026/09/10/guerra-en-oriente-medio-mantiene-el-petroleo-sobre-us-100/
+2026-09-11 00:17:18 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo: 0.87 segundos
+2026-09-11 00:17:18 | INFO | Procesando 11/20: https://larazon.bo/nacional/2026/09/10/luis-arce-amplia-su-declaracion-y-pedira-salir-de-prision-preventiva/
+2026-09-11 00:17:19 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/luis-arce-amplia-su-declaracion-y-pedira-salir-de-prision-preventiva/
+2026-09-11 00:17:19 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo: 0.89 segundos
+2026-09-11 00:17:19 | INFO | Procesando 12/20: https://larazon.bo/sociedad/2026/09/10/la-alcaldia-de-la-paz-inaugura-la-casa-de-la-mujer-en-mallasa/
+2026-09-11 00:17:20 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/10/la-alcaldia-de-la-paz-inaugura-la-casa-de-la-mujer-en-mallasa/
+2026-09-11 00:17:20 | INFO | Procesamiento completado | Noticia 12/20 | Tiempo: 0.84 segundos
+2026-09-11 00:17:20 | INFO | Procesando 13/20: https://larazon.bo/nacional/2026/09/10/quiroga-acusa-a-evo-morales-de-rechazar-la-justicia-boliviana/
+2026-09-11 00:17:21 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/quiroga-acusa-a-evo-morales-de-rechazar-la-justicia-boliviana/
+2026-09-11 00:17:21 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo: 1.00 segundos
+2026-09-11 00:17:21 | INFO | Procesando 14/20: https://larazon.bo/sociedad/2026/09/10/eeuu-destina-al-pais-us-25-millones-para-combatir-la-trata-de-personas/
+2026-09-11 00:17:22 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/10/eeuu-destina-al-pais-us-25-millones-para-combatir-la-trata-de-personas/
+2026-09-11 00:17:22 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo: 0.84 segundos
+2026-09-11 00:17:22 | INFO | Procesando 15/20: https://larazon.bo/economia-y-empresa/2026/09/10/cainco-respalda-puerto-busch-y-pide-nueva-salida-al-atlantico/
+2026-09-11 00:17:23 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/10/cainco-respalda-puerto-busch-y-pide-nueva-salida-al-atlantico/
+2026-09-11 00:17:23 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo: 0.84 segundos
+2026-09-11 00:17:23 | INFO | Procesando 16/20: https://larazon.bo/economia-y-empresa/2026/09/10/can-y-oaci-sellan-alianza-para-integrar-espacio-aereo-andino/
+2026-09-11 00:17:23 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/10/can-y-oaci-sellan-alianza-para-integrar-espacio-aereo-andino/
+2026-09-11 00:17:23 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo: 0.88 segundos
+2026-09-11 00:17:23 | INFO | Procesando 17/20: https://larazon.bo/nacional/2026/09/10/paz-busca-acuerdo-politico-con-quiroga-y-doria-medina-en-cuatro-temas/
+2026-09-11 00:17:24 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/paz-busca-acuerdo-politico-con-quiroga-y-doria-medina-en-cuatro-temas/
+2026-09-11 00:17:24 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo: 0.86 segundos
+2026-09-11 00:17:24 | INFO | Procesando 18/20: https://larazon.bo/economia-y-empresa/2026/09/10/asoban-propone-mayor-flexibilidad-financiera-y-tasas-de-interes-libres/
+2026-09-11 00:17:25 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/10/asoban-propone-mayor-flexibilidad-financiera-y-tasas-de-interes-libres/
+2026-09-11 00:17:25 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo: 0.89 segundos
+2026-09-11 00:17:25 | INFO | Procesando 19/20: https://larazon.bo/nacional/2026/09/10/quiroga-cuestiona-ampliar-el-estado-de-excepcion-y-pide-reforma-de-la-cpe/
+2026-09-11 00:17:26 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/10/quiroga-cuestiona-ampliar-el-estado-de-excepcion-y-pide-reforma-de-la-cpe/
+2026-09-11 00:17:26 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo: 0.87 segundos
+2026-09-11 00:17:26 | INFO | Procesando 20/20: https://larazon.bo/sociedad/2026/09/10/denuncian-el-biocidio-y-tortura-a-un-perro-comunitario-en-la-paz/
+2026-09-11 00:17:27 | INFO | NOTICIA GUARDADA: https://larazon.bo/sociedad/2026/09/10/denuncian-el-biocidio-y-tortura-a-un-perro-comunitario-en-la-paz/
+2026-09-11 00:17:27 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo: 0.85 segundos
+2026-09-11 00:17:27 | INFO | Noticias nuevas: 20
+2026-09-11 00:17:27 | INFO | Errores: 0
+2026-09-11 00:17:27 | INFO | Total en JSON: 62
+2026-09-11 00:17:27 | INFO | Límite máximo: 100
+2026-09-11 00:17:27 | INFO | Archivo: data/larazon/noticias.json
+2026-09-11 00:17:27 | INFO | EJECUCION COMPLETADA | Duracion: 34.76 segundos
+2026-09-11 00:17:27 | INFO | ============================================================

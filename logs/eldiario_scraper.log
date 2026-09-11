@@ -857,3 +857,145 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-10 00:43:41 | INFO | Archivo: data/eldiario/noticias.json
 2026-09-10 00:43:41 | INFO | EJECUCION COMPLETADA | Duracion: 57.61 segundos
 2026-09-10 00:43:41 | INFO | ============================================================
+2026-09-11 00:15:54 | INFO | ============================================================
+2026-09-11 00:15:54 | INFO | INICIO DE EJECUCION
+2026-09-11 00:15:54 | INFO | ============================================================
+2026-09-11 00:16:07 | INFO | Noticias encontradas: 20
+2026-09-11 00:16:07 | INFO | Noticias ya existentes: 0
+2026-09-11 00:16:07 | INFO | Noticias nuevas: 20
+2026-09-11 00:16:07 | INFO | Iniciando navegador Chromium...
+2026-09-11 00:16:08 | INFO | Procesando 1/20: https://www.eldiario.net/portal/2026/09/11/la-adrenalina-y-como-descargarla-3/
+2026-09-11 00:16:08 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/11/la-adrenalina-y-como-descargarla-3/
+2026-09-11 00:16:10 | INFO | STATUS: 307
+2026-09-11 00:16:11 | INFO | Noticia extraída correctamente | Tiempo: 2.98 segundos
+2026-09-11 00:16:11 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/11/la-adrenalina-y-como-descargarla-3/
+2026-09-11 00:16:11 | INFO | Procesamiento completado | Noticia 1/20 | Tiempo total: 2.98 segundos
+2026-09-11 00:16:11 | INFO | Procesando 2/20: https://www.eldiario.net/portal/2026/09/11/la-paz-expone-reune-al-sector-publico-y-privado-en-su-novena-edicion-en-el-chuquiago-marka/
+2026-09-11 00:16:11 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/11/la-paz-expone-reune-al-sector-publico-y-privado-en-su-novena-edicion-en-el-chuquiago-marka/
+2026-09-11 00:16:11 | INFO | STATUS: 200
+2026-09-11 00:16:12 | INFO | Noticia extraída correctamente | Tiempo: 0.89 segundos
+2026-09-11 00:16:12 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/11/la-paz-expone-reune-al-sector-publico-y-privado-en-su-novena-edicion-en-el-chuquiago-marka/
+2026-09-11 00:16:12 | INFO | Procesamiento completado | Noticia 2/20 | Tiempo total: 0.89 segundos
+2026-09-11 00:16:12 | INFO | Procesando 3/20: https://www.eldiario.net/portal/2026/09/10/varios-fallecidos-al-volcar-un-autobus-cerca-del-parque-nacional-suizo-1945/
+2026-09-11 00:16:12 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/varios-fallecidos-al-volcar-un-autobus-cerca-del-parque-nacional-suizo-1945/
+2026-09-11 00:16:13 | INFO | STATUS: 200
+2026-09-11 00:16:13 | INFO | Noticia extraída correctamente | Tiempo: 1.52 segundos
+2026-09-11 00:16:13 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/varios-fallecidos-al-volcar-un-autobus-cerca-del-parque-nacional-suizo-1945/
+2026-09-11 00:16:13 | INFO | Procesamiento completado | Noticia 3/20 | Tiempo total: 1.52 segundos
+2026-09-11 00:16:13 | INFO | Procesando 4/20: https://www.eldiario.net/portal/2026/09/10/ruptura-diplomatica-argelia-veta-el-paso-de-aviones-emiraties-1940/
+2026-09-11 00:16:13 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/ruptura-diplomatica-argelia-veta-el-paso-de-aviones-emiraties-1940/
+2026-09-11 00:16:14 | INFO | STATUS: 200
+2026-09-11 00:16:14 | INFO | Noticia extraída correctamente | Tiempo: 0.87 segundos
+2026-09-11 00:16:14 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/ruptura-diplomatica-argelia-veta-el-paso-de-aviones-emiraties-1940/
+2026-09-11 00:16:14 | INFO | Procesamiento completado | Noticia 4/20 | Tiempo total: 0.87 segundos
+2026-09-11 00:16:14 | INFO | Procesando 5/20: https://www.eldiario.net/portal/2026/09/10/israel-destruye-una-red-de-tuneles-en-el-sur-del-libano-1930/
+2026-09-11 00:16:14 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/israel-destruye-una-red-de-tuneles-en-el-sur-del-libano-1930/
+2026-09-11 00:16:16 | INFO | STATUS: 200
+2026-09-11 00:16:16 | INFO | Noticia extraída correctamente | Tiempo: 1.95 segundos
+2026-09-11 00:16:16 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/israel-destruye-una-red-de-tuneles-en-el-sur-del-libano-1930/
+2026-09-11 00:16:16 | INFO | Procesamiento completado | Noticia 5/20 | Tiempo total: 1.95 segundos
+2026-09-11 00:16:16 | INFO | Procesando 6/20: https://www.eldiario.net/portal/2026/09/10/regularizan-situacion-de-mas-de-60-funcionarios-del-concejo/
+2026-09-11 00:16:16 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/regularizan-situacion-de-mas-de-60-funcionarios-del-concejo/
+2026-09-11 00:16:18 | INFO | STATUS: 200
+2026-09-11 00:16:18 | INFO | Noticia extraída correctamente | Tiempo: 2.37 segundos
+2026-09-11 00:16:18 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/regularizan-situacion-de-mas-de-60-funcionarios-del-concejo/
+2026-09-11 00:16:18 | INFO | Procesamiento completado | Noticia 6/20 | Tiempo total: 2.37 segundos
+2026-09-11 00:16:18 | INFO | Procesando 7/20: https://www.eldiario.net/portal/2026/09/10/paralizan-actividades-mineras-ilegales-en-san-lucas-y-camargo/
+2026-09-11 00:16:18 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/paralizan-actividades-mineras-ilegales-en-san-lucas-y-camargo/
+2026-09-11 00:16:20 | INFO | STATUS: 200
+2026-09-11 00:16:21 | INFO | Noticia extraída correctamente | Tiempo: 2.30 segundos
+2026-09-11 00:16:21 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/paralizan-actividades-mineras-ilegales-en-san-lucas-y-camargo/
+2026-09-11 00:16:21 | INFO | Procesamiento completado | Noticia 7/20 | Tiempo total: 2.30 segundos
+2026-09-11 00:16:21 | INFO | Procesando 8/20: https://www.eldiario.net/portal/2026/09/10/gobierno-gestiona-us-55-millones-para-carretera-estrategica-en-la-chiquitania/
+2026-09-11 00:16:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/gobierno-gestiona-us-55-millones-para-carretera-estrategica-en-la-chiquitania/
+2026-09-11 00:16:21 | INFO | STATUS: 200
+2026-09-11 00:16:21 | INFO | Noticia extraída correctamente | Tiempo: 0.82 segundos
+2026-09-11 00:16:21 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/gobierno-gestiona-us-55-millones-para-carretera-estrategica-en-la-chiquitania/
+2026-09-11 00:16:21 | INFO | Procesamiento completado | Noticia 8/20 | Tiempo total: 0.82 segundos
+2026-09-11 00:16:21 | INFO | Procesando 9/20: https://www.eldiario.net/portal/2026/09/10/crean-comite-tecnico-para-consolidar-uso-de-puerto-buch-por-hidrovia-paraguay-parana/
+2026-09-11 00:16:21 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/crean-comite-tecnico-para-consolidar-uso-de-puerto-buch-por-hidrovia-paraguay-parana/
+2026-09-11 00:16:23 | INFO | STATUS: 200
+2026-09-11 00:16:23 | INFO | Noticia extraída correctamente | Tiempo: 1.93 segundos
+2026-09-11 00:16:23 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/crean-comite-tecnico-para-consolidar-uso-de-puerto-buch-por-hidrovia-paraguay-parana/
+2026-09-11 00:16:23 | INFO | Procesamiento completado | Noticia 9/20 | Tiempo total: 1.93 segundos
+2026-09-11 00:16:23 | INFO | Procesando 10/20: https://www.eldiario.net/portal/2026/09/10/fiscalia-indaga-sustraccion-de-explosivos-en-cuartel-de-el-alto/
+2026-09-11 00:16:23 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/fiscalia-indaga-sustraccion-de-explosivos-en-cuartel-de-el-alto/
+2026-09-11 00:16:25 | INFO | STATUS: 200
+2026-09-11 00:16:25 | INFO | Noticia extraída correctamente | Tiempo: 2.17 segundos
+2026-09-11 00:16:25 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/fiscalia-indaga-sustraccion-de-explosivos-en-cuartel-de-el-alto/
+2026-09-11 00:16:25 | INFO | Procesamiento completado | Noticia 10/20 | Tiempo total: 2.17 segundos
+2026-09-11 00:16:25 | INFO | Procesando 11/20: https://www.eldiario.net/portal/2026/09/10/relleno-de-cotapachi-cierra-temporalmente-y-quillacollo-pide-no-sacar-basura-1838/
+2026-09-11 00:16:25 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/relleno-de-cotapachi-cierra-temporalmente-y-quillacollo-pide-no-sacar-basura-1838/
+2026-09-11 00:16:28 | INFO | STATUS: 200
+2026-09-11 00:16:28 | INFO | Noticia extraída correctamente | Tiempo: 2.62 segundos
+2026-09-11 00:16:28 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/relleno-de-cotapachi-cierra-temporalmente-y-quillacollo-pide-no-sacar-basura-1838/
+2026-09-11 00:16:28 | INFO | Procesamiento completado | Noticia 11/20 | Tiempo total: 2.62 segundos
+2026-09-11 00:16:28 | INFO | Procesando 12/20: https://www.eldiario.net/portal/2026/09/10/casa-blanca-ofrece-bono-electoral-condicionado-chile-diesel-sube-226-incendio-avanza-en-turquia-1828/
+2026-09-11 00:16:28 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/casa-blanca-ofrece-bono-electoral-condicionado-chile-diesel-sube-226-incendio-avanza-en-turquia-1828/
+2026-09-11 00:16:29 | INFO | STATUS: 200
+2026-09-11 00:16:29 | WARNING | ERROR intento 1/3: La noticia no tiene contenido
+2026-09-11 00:16:29 | WARNING | Reintentando en 2 segundos...
+2026-09-11 00:16:31 | INFO | Abriendo noticia (intento 2/3): https://www.eldiario.net/portal/2026/09/10/casa-blanca-ofrece-bono-electoral-condicionado-chile-diesel-sube-226-incendio-avanza-en-turquia-1828/
+2026-09-11 00:16:32 | INFO | STATUS: 200
+2026-09-11 00:16:32 | WARNING | ERROR intento 2/3: La noticia no tiene contenido
+2026-09-11 00:16:32 | WARNING | Reintentando en 4 segundos...
+2026-09-11 00:16:36 | INFO | Abriendo noticia (intento 3/3): https://www.eldiario.net/portal/2026/09/10/casa-blanca-ofrece-bono-electoral-condicionado-chile-diesel-sube-226-incendio-avanza-en-turquia-1828/
+2026-09-11 00:16:37 | INFO | STATUS: 200
+2026-09-11 00:16:38 | WARNING | ERROR intento 3/3: La noticia no tiene contenido
+2026-09-11 00:16:38 | ERROR | ERROR AL SCRAPEAR: https://www.eldiario.net/portal/2026/09/10/casa-blanca-ofrece-bono-electoral-condicionado-chile-diesel-sube-226-incendio-avanza-en-turquia-1828/ | No se pudo obtener la noticia después de 3 intentos | Tiempo: 9.61 segundos | Último error: La noticia no tiene contenido
+2026-09-11 00:16:38 | INFO | Procesando 13/20: https://www.eldiario.net/portal/2026/09/10/paz-relanza-refinacion-de-crudo-en-bolivia/
+2026-09-11 00:16:38 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/paz-relanza-refinacion-de-crudo-en-bolivia/
+2026-09-11 00:16:40 | INFO | STATUS: 200
+2026-09-11 00:16:40 | INFO | Noticia extraída correctamente | Tiempo: 2.30 segundos
+2026-09-11 00:16:40 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/paz-relanza-refinacion-de-crudo-en-bolivia/
+2026-09-11 00:16:40 | INFO | Procesamiento completado | Noticia 13/20 | Tiempo total: 2.30 segundos
+2026-09-11 00:16:40 | INFO | Procesando 14/20: https://www.eldiario.net/portal/2026/09/10/reserva-monetaria-restringida-no-afecta-a-depositos-de-clientes/
+2026-09-11 00:16:40 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/reserva-monetaria-restringida-no-afecta-a-depositos-de-clientes/
+2026-09-11 00:16:42 | INFO | STATUS: 200
+2026-09-11 00:16:42 | INFO | Noticia extraída correctamente | Tiempo: 2.45 segundos
+2026-09-11 00:16:42 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/reserva-monetaria-restringida-no-afecta-a-depositos-de-clientes/
+2026-09-11 00:16:42 | INFO | Procesamiento completado | Noticia 14/20 | Tiempo total: 2.45 segundos
+2026-09-11 00:16:42 | INFO | Procesando 15/20: https://www.eldiario.net/portal/2026/09/10/asamblea-de-la-crucenidad-da-plazo-hasta-el-10-de-octubre-al-ejecutivo/
+2026-09-11 00:16:42 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/asamblea-de-la-crucenidad-da-plazo-hasta-el-10-de-octubre-al-ejecutivo/
+2026-09-11 00:16:44 | INFO | STATUS: 200
+2026-09-11 00:16:44 | INFO | Noticia extraída correctamente | Tiempo: 2.01 segundos
+2026-09-11 00:16:44 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/asamblea-de-la-crucenidad-da-plazo-hasta-el-10-de-octubre-al-ejecutivo/
+2026-09-11 00:16:44 | INFO | Procesamiento completado | Noticia 15/20 | Tiempo total: 2.01 segundos
+2026-09-11 00:16:44 | INFO | Procesando 16/20: https://www.eldiario.net/portal/2026/09/10/gobierno-plantea-protocolos-para-evitar-bloqueos-y-proteger-derechos/
+2026-09-11 00:16:44 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/gobierno-plantea-protocolos-para-evitar-bloqueos-y-proteger-derechos/
+2026-09-11 00:16:46 | INFO | STATUS: 200
+2026-09-11 00:16:47 | INFO | Noticia extraída correctamente | Tiempo: 2.09 segundos
+2026-09-11 00:16:47 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/gobierno-plantea-protocolos-para-evitar-bloqueos-y-proteger-derechos/
+2026-09-11 00:16:47 | INFO | Procesamiento completado | Noticia 16/20 | Tiempo total: 2.09 segundos
+2026-09-11 00:16:47 | INFO | Procesando 17/20: https://www.eldiario.net/portal/2026/09/10/lara-denigra-el-cargo-de-vicepresidente/
+2026-09-11 00:16:47 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/lara-denigra-el-cargo-de-vicepresidente/
+2026-09-11 00:16:47 | INFO | STATUS: 200
+2026-09-11 00:16:48 | INFO | Noticia extraída correctamente | Tiempo: 1.00 segundos
+2026-09-11 00:16:48 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/lara-denigra-el-cargo-de-vicepresidente/
+2026-09-11 00:16:48 | INFO | Procesamiento completado | Noticia 17/20 | Tiempo total: 1.00 segundos
+2026-09-11 00:16:48 | INFO | Procesando 18/20: https://www.eldiario.net/portal/2026/09/10/prohiben-uso-de-ia-para-los-alumnos-de-primaria/
+2026-09-11 00:16:48 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/prohiben-uso-de-ia-para-los-alumnos-de-primaria/
+2026-09-11 00:16:48 | INFO | STATUS: 200
+2026-09-11 00:16:49 | INFO | Noticia extraída correctamente | Tiempo: 1.00 segundos
+2026-09-11 00:16:49 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/prohiben-uso-de-ia-para-los-alumnos-de-primaria/
+2026-09-11 00:16:49 | INFO | Procesamiento completado | Noticia 18/20 | Tiempo total: 1.00 segundos
+2026-09-11 00:16:49 | INFO | Procesando 19/20: https://www.eldiario.net/portal/2026/09/10/diputados-aprueba-restitucion-de-derechos-a-militares-y-policias/
+2026-09-11 00:16:49 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/diputados-aprueba-restitucion-de-derechos-a-militares-y-policias/
+2026-09-11 00:16:49 | INFO | STATUS: 200
+2026-09-11 00:16:50 | INFO | Noticia extraída correctamente | Tiempo: 1.01 segundos
+2026-09-11 00:16:50 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/diputados-aprueba-restitucion-de-derechos-a-militares-y-policias/
+2026-09-11 00:16:50 | INFO | Procesamiento completado | Noticia 19/20 | Tiempo total: 1.01 segundos
+2026-09-11 00:16:50 | INFO | Procesando 20/20: https://www.eldiario.net/portal/2026/09/10/coca-excedentaria-dana-imagen-del-pais-ante-organismos-internacionales/
+2026-09-11 00:16:50 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/10/coca-excedentaria-dana-imagen-del-pais-ante-organismos-internacionales/
+2026-09-11 00:16:50 | INFO | STATUS: 200
+2026-09-11 00:16:51 | INFO | Noticia extraída correctamente | Tiempo: 0.99 segundos
+2026-09-11 00:16:51 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/10/coca-excedentaria-dana-imagen-del-pais-ante-organismos-internacionales/
+2026-09-11 00:16:51 | INFO | Procesamiento completado | Noticia 20/20 | Tiempo total: 0.99 segundos
+2026-09-11 00:16:51 | INFO | Chromium cerrado.
+2026-09-11 00:16:51 | INFO | Noticias nuevas: 19
+2026-09-11 00:16:51 | INFO | Errores: 1
+2026-09-11 00:16:51 | INFO | Total en JSON: 36
+2026-09-11 00:16:51 | INFO | Límite máximo: 100
+2026-09-11 00:16:51 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-11 00:16:51 | INFO | EJECUCION COMPLETADA | Duracion: 57.06 segundos
+2026-09-11 00:16:51 | INFO | ============================================================
