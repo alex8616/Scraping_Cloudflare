@@ -6,13 +6,14 @@ from datetime import datetime
 
 from sitemap import obtener_urls_noticias
 from larazon_scraper import scrapear_noticia
+from subir_json import subir_json
 
 
 RUTA_JSON = "data/larazon/noticias.json"
 RUTA_LOG = "logs/larazon_scraper.log"
 
-LIMITE_URLS = 20
-LIMITE_NOTICIAS = 100
+LIMITE_URLS = 10
+LIMITE_NOTICIAS = 10
 
 
 # ============================================================
@@ -139,6 +140,7 @@ def guardar_json(noticias):
             )
 
             archivo.flush()
+
             os.fsync(
                 archivo.fileno()
             )
@@ -153,9 +155,11 @@ def guardar_json(noticias):
         if os.path.exists(ruta_temp):
 
             try:
+
                 os.remove(ruta_temp)
 
             except OSError:
+
                 pass
 
         raise
@@ -285,7 +289,7 @@ def guardar_noticias():
         )
 
         # ----------------------------------------------------
-        # LIMITAR A 100
+        # LIMITAR A 10
         # ----------------------------------------------------
 
         noticias = noticias[
@@ -293,12 +297,40 @@ def guardar_noticias():
         ]
 
         # ----------------------------------------------------
-        # GUARDAR JSON
+        # GUARDAR JSON LOCAL
         # ----------------------------------------------------
 
         guardar_json(
             noticias
         )
+
+        logger.info(
+            "JSON LOCAL GUARDADO CORRECTAMENTE"
+        )
+
+        # ----------------------------------------------------
+        # SUBIR JSON A LARAVEL
+        # ----------------------------------------------------
+
+        try:
+
+            resultado_upload = subir_json(
+                "larazon",
+                RUTA_JSON
+            )
+
+            logger.info(
+                "JSON SUBIDO A LARAVEL "
+                "CORRECTAMENTE | "
+                f"Noticias: "
+                f"{resultado_upload.get('noticias')}"
+            )
+
+        except Exception as e:
+
+            logger.error(
+                f"ERROR AL SUBIR JSON A LARAVEL: {e}"
+            )
 
         # ----------------------------------------------------
         # RESUMEN

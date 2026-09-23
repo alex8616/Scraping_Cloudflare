@@ -435,3 +435,84 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-11 00:17:27 | INFO | Archivo: data/larazon/noticias.json
 2026-09-11 00:17:27 | INFO | EJECUCION COMPLETADA | Duracion: 34.76 segundos
 2026-09-11 00:17:27 | INFO | ============================================================
+2026-09-23 00:29:48 | INFO | ============================================================
+2026-09-23 00:29:48 | INFO | INICIO DE EJECUCION
+2026-09-23 00:29:48 | INFO | ============================================================
+2026-09-23 00:30:06 | INFO | Noticias encontradas: 10
+2026-09-23 00:30:06 | INFO | Noticias ya existentes: 0
+2026-09-23 00:30:06 | INFO | Noticias nuevas: 10
+2026-09-23 00:30:06 | INFO | Procesando 1/10: https://larazon.bo/opinion/columnistas/2026/09/23/el-diesel-mas-caro-es-el-que-empobrece-a-costa-del-abastecimiento/
+2026-09-23 00:30:07 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/23/el-diesel-mas-caro-es-el-que-empobrece-a-costa-del-abastecimiento/
+2026-09-23 00:30:07 | INFO | Procesamiento completado | Noticia 1/10 | Tiempo: 0.82 segundos
+2026-09-23 00:30:07 | INFO | Procesando 2/10: https://larazon.bo/opinion/columnistas/2026/09/23/nace-los-estados-unidos-de-europa/
+2026-09-23 00:30:08 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/23/nace-los-estados-unidos-de-europa/
+2026-09-23 00:30:08 | INFO | Procesamiento completado | Noticia 2/10 | Tiempo: 0.80 segundos
+2026-09-23 00:30:08 | INFO | Procesando 3/10: https://larazon.bo/opinion/columnistas/2026/09/23/sin-cohesion-social-esto-sera-mas-dificil/
+2026-09-23 00:30:08 | INFO | NOTICIA GUARDADA: https://larazon.bo/opinion/columnistas/2026/09/23/sin-cohesion-social-esto-sera-mas-dificil/
+2026-09-23 00:30:08 | INFO | Procesamiento completado | Noticia 3/10 | Tiempo: 0.80 segundos
+2026-09-23 00:30:08 | INFO | Procesando 4/10: https://larazon.bo/nacional/2026/09/22/bolivia-reune-a-seis-paises-para-fortalecer-temas-de-seguridad/
+2026-09-23 00:30:09 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/22/bolivia-reune-a-seis-paises-para-fortalecer-temas-de-seguridad/
+2026-09-23 00:30:09 | INFO | Procesamiento completado | Noticia 4/10 | Tiempo: 0.81 segundos
+2026-09-23 00:30:09 | INFO | Procesando 5/10: https://larazon.bo/ciudades/2026/09/22/la-paz-activa-plan-vial-de-bs-28-millones-para-reducir-baches/
+2026-09-23 00:30:10 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/22/la-paz-activa-plan-vial-de-bs-28-millones-para-reducir-baches/
+2026-09-23 00:30:10 | INFO | Procesamiento completado | Noticia 5/10 | Tiempo: 0.87 segundos
+2026-09-23 00:30:10 | INFO | Procesando 6/10: https://larazon.bo/ciudades/2026/09/22/asamblea-de-santa-cruz-inicia-actos-por-los-216-anos-de-la-gesta-libertaria/
+2026-09-23 00:30:11 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/22/asamblea-de-santa-cruz-inicia-actos-por-los-216-anos-de-la-gesta-libertaria/
+2026-09-23 00:30:11 | INFO | Procesamiento completado | Noticia 6/10 | Tiempo: 0.81 segundos
+2026-09-23 00:30:11 | INFO | Procesando 7/10: https://larazon.bo/nacional/2026/09/22/ley-antibloqueos-avanza-a-una-propuesta-unificada-y-sera-tratada-el-30-de-septiembre/
+2026-09-23 00:30:12 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/22/ley-antibloqueos-avanza-a-una-propuesta-unificada-y-sera-tratada-el-30-de-septiembre/
+2026-09-23 00:30:12 | INFO | Procesamiento completado | Noticia 7/10 | Tiempo: 0.81 segundos
+2026-09-23 00:30:12 | INFO | Procesando 8/10: https://larazon.bo/economia-y-empresa/2026/09/22/gobierno-reporta-que-el-803-del-transporte-publico-no-usa-diesel/
+2026-09-23 00:30:13 | INFO | NOTICIA GUARDADA: https://larazon.bo/economia-y-empresa/2026/09/22/gobierno-reporta-que-el-803-del-transporte-publico-no-usa-diesel/
+2026-09-23 00:30:13 | INFO | Procesamiento completado | Noticia 8/10 | Tiempo: 0.82 segundos
+2026-09-23 00:30:13 | INFO | Procesando 9/10: https://larazon.bo/ciudades/2026/09/22/reyes-villa-plantea-buses-electricos-ante-el-fin-del-subsidio-al-diesel/
+2026-09-23 00:30:13 | INFO | NOTICIA GUARDADA: https://larazon.bo/ciudades/2026/09/22/reyes-villa-plantea-buses-electricos-ante-el-fin-del-subsidio-al-diesel/
+2026-09-23 00:30:13 | INFO | Procesamiento completado | Noticia 9/10 | Tiempo: 0.83 segundos
+2026-09-23 00:30:13 | INFO | Procesando 10/10: https://larazon.bo/nacional/2026/09/22/bolivia-y-otros-tres-paises-avanzan-en-plan-andino-contra-el-crimen-organizado/
+2026-09-23 00:30:14 | INFO | NOTICIA GUARDADA: https://larazon.bo/nacional/2026/09/22/bolivia-y-otros-tres-paises-avanzan-en-plan-andino-contra-el-crimen-organizado/
+2026-09-23 00:30:14 | INFO | Procesamiento completado | Noticia 10/10 | Tiempo: 0.82 segundos
+2026-09-23 00:30:14 | INFO | JSON LOCAL GUARDADO CORRECTAMENTE
+2026-09-23 00:30:14 | INFO | Subiendo JSON | Fuente: larazon | Noticias: 10
+2026-09-23 00:30:14 | INFO | JSON SUBIDO CORRECTAMENTE | Fuente: larazon | Noticias: 10
+2026-09-23 00:30:14 | INFO | JSON SUBIDO A LARAVEL CORRECTAMENTE | Noticias: 10
+2026-09-23 00:30:14 | INFO | Noticias nuevas: 10
+2026-09-23 00:30:14 | INFO | Errores: 0
+2026-09-23 00:30:14 | INFO | Total en JSON: 10
+2026-09-23 00:30:14 | INFO | Límite máximo: 10
+2026-09-23 00:30:14 | INFO | Archivo: data/larazon/noticias.json
+2026-09-23 00:30:14 | INFO | EJECUCION COMPLETADA | Duracion: 26.87 segundos
+2026-09-23 00:30:14 | INFO | ============================================================
+2026-09-23 00:35:08 | INFO | ============================================================
+2026-09-23 00:35:08 | INFO | INICIO DE EJECUCION
+2026-09-23 00:35:08 | INFO | ============================================================
+2026-09-23 00:35:24 | INFO | Noticias encontradas: 10
+2026-09-23 00:35:24 | INFO | Noticias ya existentes: 10
+2026-09-23 00:35:24 | INFO | Noticias nuevas: 0
+2026-09-23 00:35:24 | INFO | JSON LOCAL GUARDADO CORRECTAMENTE
+2026-09-23 00:35:24 | INFO | Subiendo JSON | Fuente: larazon | Noticias: 10
+2026-09-23 00:35:24 | INFO | JSON SUBIDO CORRECTAMENTE | Fuente: larazon | Noticias: 10
+2026-09-23 00:35:24 | INFO | JSON SUBIDO A LARAVEL CORRECTAMENTE | Noticias: 10
+2026-09-23 00:35:24 | INFO | Noticias nuevas: 0
+2026-09-23 00:35:24 | INFO | Errores: 0
+2026-09-23 00:35:24 | INFO | Total en JSON: 10
+2026-09-23 00:35:24 | INFO | Límite máximo: 10
+2026-09-23 00:35:24 | INFO | Archivo: data/larazon/noticias.json
+2026-09-23 00:35:24 | INFO | EJECUCION COMPLETADA | Duracion: 16.14 segundos
+2026-09-23 00:35:24 | INFO | ============================================================
+2026-09-23 01:07:34 | INFO | ============================================================
+2026-09-23 01:07:34 | INFO | INICIO DE EJECUCION
+2026-09-23 01:07:34 | INFO | ============================================================
+2026-09-23 01:07:50 | INFO | Noticias encontradas: 10
+2026-09-23 01:07:50 | INFO | Noticias ya existentes: 10
+2026-09-23 01:07:50 | INFO | Noticias nuevas: 0
+2026-09-23 01:07:50 | INFO | JSON LOCAL GUARDADO CORRECTAMENTE
+2026-09-23 01:07:50 | INFO | Subiendo JSON | Fuente: larazon | Noticias: 10
+2026-09-23 01:07:50 | INFO | JSON SUBIDO CORRECTAMENTE | Fuente: larazon | Noticias: 10
+2026-09-23 01:07:50 | INFO | JSON SUBIDO A LARAVEL CORRECTAMENTE | Noticias: 10
+2026-09-23 01:07:50 | INFO | Noticias nuevas: 0
+2026-09-23 01:07:50 | INFO | Errores: 0
+2026-09-23 01:07:50 | INFO | Total en JSON: 10
+2026-09-23 01:07:50 | INFO | Límite máximo: 10
+2026-09-23 01:07:50 | INFO | Archivo: data/larazon/noticias.json
+2026-09-23 01:07:50 | INFO | EJECUCION COMPLETADA | Duracion: 15.84 segundos
+2026-09-23 01:07:50 | INFO | ============================================================

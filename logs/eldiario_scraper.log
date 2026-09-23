@@ -999,3 +999,100 @@ Exception: El archivo JSON está corrupto: Expecting value: line 1 column 1 (cha
 2026-09-11 00:16:51 | INFO | Archivo: data/eldiario/noticias.json
 2026-09-11 00:16:51 | INFO | EJECUCION COMPLETADA | Duracion: 57.06 segundos
 2026-09-11 00:16:51 | INFO | ============================================================
+2026-09-23 00:34:43 | INFO | ============================================================
+2026-09-23 00:34:43 | INFO | INICIO DE EJECUCION
+2026-09-23 00:34:43 | INFO | ============================================================
+2026-09-23 00:34:56 | INFO | Noticias encontradas: 10
+2026-09-23 00:34:56 | INFO | Noticias ya existentes: 0
+2026-09-23 00:34:56 | INFO | Noticias nuevas: 10
+2026-09-23 00:34:56 | INFO | Iniciando navegador Chromium...
+2026-09-23 00:34:57 | INFO | Procesando 1/10: https://www.eldiario.net/portal/2026/09/23/fiscalia-registra-63-feminicidios-en-el-pais-en-lo-que-va-del-ano-2/
+2026-09-23 00:34:57 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/fiscalia-registra-63-feminicidios-en-el-pais-en-lo-que-va-del-ano-2/
+2026-09-23 00:34:59 | INFO | STATUS: 307
+2026-09-23 00:34:59 | INFO | Noticia extraída correctamente | Tiempo: 2.67 segundos
+2026-09-23 00:34:59 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/fiscalia-registra-63-feminicidios-en-el-pais-en-lo-que-va-del-ano-2/
+2026-09-23 00:34:59 | INFO | Procesamiento completado | Noticia 1/10 | Tiempo total: 2.67 segundos
+2026-09-23 00:34:59 | INFO | Procesando 2/10: https://www.eldiario.net/portal/2026/09/23/bolivia-reune-a-5-paises-para-fortalecer-el-manejo-de-crisis/
+2026-09-23 00:34:59 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/bolivia-reune-a-5-paises-para-fortalecer-el-manejo-de-crisis/
+2026-09-23 00:35:00 | INFO | STATUS: 200
+2026-09-23 00:35:00 | INFO | Noticia extraída correctamente | Tiempo: 0.90 segundos
+2026-09-23 00:35:00 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/bolivia-reune-a-5-paises-para-fortalecer-el-manejo-de-crisis/
+2026-09-23 00:35:00 | INFO | Procesamiento completado | Noticia 2/10 | Tiempo total: 0.90 segundos
+2026-09-23 00:35:00 | INFO | Procesando 3/10: https://www.eldiario.net/portal/2026/09/23/capturan-y-expulsan-a-lider-del-pcc-buscado-en-brasil/
+2026-09-23 00:35:00 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/capturan-y-expulsan-a-lider-del-pcc-buscado-en-brasil/
+2026-09-23 00:35:01 | INFO | STATUS: 200
+2026-09-23 00:35:01 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-23 00:35:01 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/capturan-y-expulsan-a-lider-del-pcc-buscado-en-brasil/
+2026-09-23 00:35:01 | INFO | Procesamiento completado | Noticia 3/10 | Tiempo total: 0.81 segundos
+2026-09-23 00:35:01 | INFO | Procesando 4/10: https://www.eldiario.net/portal/2026/09/23/cielo-conquista-la-pantalla-de-multicine/
+2026-09-23 00:35:01 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/cielo-conquista-la-pantalla-de-multicine/
+2026-09-23 00:35:02 | INFO | STATUS: 200
+2026-09-23 00:35:02 | INFO | Noticia extraída correctamente | Tiempo: 0.84 segundos
+2026-09-23 00:35:02 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/cielo-conquista-la-pantalla-de-multicine/
+2026-09-23 00:35:02 | INFO | Procesamiento completado | Noticia 4/10 | Tiempo total: 0.84 segundos
+2026-09-23 00:35:02 | INFO | Procesando 5/10: https://www.eldiario.net/portal/2026/09/23/ms-bolivia-presenta-las-nuevas-tecnologias-de-germaine-de-capuccini/
+2026-09-23 00:35:02 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/ms-bolivia-presenta-las-nuevas-tecnologias-de-germaine-de-capuccini/
+2026-09-23 00:35:03 | INFO | STATUS: 200
+2026-09-23 00:35:03 | INFO | Noticia extraída correctamente | Tiempo: 0.88 segundos
+2026-09-23 00:35:03 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/ms-bolivia-presenta-las-nuevas-tecnologias-de-germaine-de-capuccini/
+2026-09-23 00:35:03 | INFO | Procesamiento completado | Noticia 5/10 | Tiempo total: 0.88 segundos
+2026-09-23 00:35:03 | INFO | Procesando 6/10: https://www.eldiario.net/portal/2026/09/23/cuestionan-incineracion-de-madera-boliviana-en-chile/
+2026-09-23 00:35:03 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/23/cuestionan-incineracion-de-madera-boliviana-en-chile/
+2026-09-23 00:35:04 | INFO | STATUS: 200
+2026-09-23 00:35:04 | INFO | Noticia extraída correctamente | Tiempo: 0.87 segundos
+2026-09-23 00:35:04 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/23/cuestionan-incineracion-de-madera-boliviana-en-chile/
+2026-09-23 00:35:04 | INFO | Procesamiento completado | Noticia 6/10 | Tiempo total: 0.87 segundos
+2026-09-23 00:35:04 | INFO | Procesando 7/10: https://www.eldiario.net/portal/2026/09/22/el-petroleo-cae-ante-senales-de-acercamiento-entre-ee-uu-e-iran-1815/
+2026-09-23 00:35:04 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/22/el-petroleo-cae-ante-senales-de-acercamiento-entre-ee-uu-e-iran-1815/
+2026-09-23 00:35:04 | INFO | STATUS: 200
+2026-09-23 00:35:05 | INFO | Noticia extraída correctamente | Tiempo: 0.85 segundos
+2026-09-23 00:35:05 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/22/el-petroleo-cae-ante-senales-de-acercamiento-entre-ee-uu-e-iran-1815/
+2026-09-23 00:35:05 | INFO | Procesamiento completado | Noticia 7/10 | Tiempo total: 0.85 segundos
+2026-09-23 00:35:05 | INFO | Procesando 8/10: https://www.eldiario.net/portal/2026/09/22/brasil-apuesta-al-sorgo-exportaciones-a-china-se-disparan-1811/
+2026-09-23 00:35:05 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/22/brasil-apuesta-al-sorgo-exportaciones-a-china-se-disparan-1811/
+2026-09-23 00:35:05 | INFO | STATUS: 200
+2026-09-23 00:35:05 | INFO | Noticia extraída correctamente | Tiempo: 0.81 segundos
+2026-09-23 00:35:05 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/22/brasil-apuesta-al-sorgo-exportaciones-a-china-se-disparan-1811/
+2026-09-23 00:35:05 | INFO | Procesamiento completado | Noticia 8/10 | Tiempo total: 0.81 segundos
+2026-09-23 00:35:05 | INFO | Procesando 9/10: https://www.eldiario.net/portal/2026/09/22/macron-cuestiona-a-trump-ante-la-onu-la-paz-en-gaza-no-ha-llegado-1829/
+2026-09-23 00:35:05 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/22/macron-cuestiona-a-trump-ante-la-onu-la-paz-en-gaza-no-ha-llegado-1829/
+2026-09-23 00:35:06 | INFO | STATUS: 200
+2026-09-23 00:35:06 | INFO | Noticia extraída correctamente | Tiempo: 0.78 segundos
+2026-09-23 00:35:06 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/22/macron-cuestiona-a-trump-ante-la-onu-la-paz-en-gaza-no-ha-llegado-1829/
+2026-09-23 00:35:06 | INFO | Procesamiento completado | Noticia 9/10 | Tiempo total: 0.79 segundos
+2026-09-23 00:35:06 | INFO | Procesando 10/10: https://www.eldiario.net/portal/2026/09/22/att-no-autorizo-ningun-alza-en-precios-de-pasajes-interdepartamentales/
+2026-09-23 00:35:06 | INFO | Abriendo noticia (intento 1/3): https://www.eldiario.net/portal/2026/09/22/att-no-autorizo-ningun-alza-en-precios-de-pasajes-interdepartamentales/
+2026-09-23 00:35:07 | INFO | STATUS: 200
+2026-09-23 00:35:07 | INFO | Noticia extraída correctamente | Tiempo: 0.79 segundos
+2026-09-23 00:35:07 | INFO | NOTICIA GUARDADA: https://www.eldiario.net/portal/2026/09/22/att-no-autorizo-ningun-alza-en-precios-de-pasajes-interdepartamentales/
+2026-09-23 00:35:07 | INFO | Procesamiento completado | Noticia 10/10 | Tiempo total: 0.79 segundos
+2026-09-23 00:35:07 | INFO | Chromium cerrado.
+2026-09-23 00:35:07 | INFO | JSON LOCAL GUARDADO CORRECTAMENTE
+2026-09-23 00:35:07 | INFO | Subiendo JSON | Fuente: eldiario | Noticias: 10
+2026-09-23 00:35:07 | INFO | JSON SUBIDO CORRECTAMENTE | Fuente: eldiario | Noticias: 10
+2026-09-23 00:35:07 | INFO | JSON SUBIDO A LARAVEL CORRECTAMENTE | Noticias: 10
+2026-09-23 00:35:07 | INFO | Noticias nuevas: 10
+2026-09-23 00:35:07 | INFO | Errores: 0
+2026-09-23 00:35:07 | INFO | Total en JSON: 10
+2026-09-23 00:35:07 | INFO | Límite máximo: 10
+2026-09-23 00:35:07 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-23 00:35:07 | INFO | EJECUCION COMPLETADA | Duracion: 24.08 segundos
+2026-09-23 00:35:07 | INFO | ============================================================
+2026-09-23 01:07:22 | INFO | ============================================================
+2026-09-23 01:07:22 | INFO | INICIO DE EJECUCION
+2026-09-23 01:07:22 | INFO | ============================================================
+2026-09-23 01:07:33 | INFO | Noticias encontradas: 10
+2026-09-23 01:07:33 | INFO | Noticias ya existentes: 10
+2026-09-23 01:07:33 | INFO | Noticias nuevas: 0
+2026-09-23 01:07:33 | INFO | No hay noticias nuevas. No se inicia Chromium.
+2026-09-23 01:07:33 | INFO | JSON LOCAL GUARDADO CORRECTAMENTE
+2026-09-23 01:07:33 | INFO | Subiendo JSON | Fuente: eldiario | Noticias: 10
+2026-09-23 01:07:33 | INFO | JSON SUBIDO CORRECTAMENTE | Fuente: eldiario | Noticias: 10
+2026-09-23 01:07:33 | INFO | JSON SUBIDO A LARAVEL CORRECTAMENTE | Noticias: 10
+2026-09-23 01:07:33 | INFO | Noticias nuevas: 0
+2026-09-23 01:07:33 | INFO | Errores: 0
+2026-09-23 01:07:33 | INFO | Total en JSON: 10
+2026-09-23 01:07:33 | INFO | Límite máximo: 10
+2026-09-23 01:07:33 | INFO | Archivo: data/eldiario/noticias.json
+2026-09-23 01:07:33 | INFO | EJECUCION COMPLETADA | Duracion: 11.22 segundos
+2026-09-23 01:07:33 | INFO | ============================================================

@@ -8,12 +8,14 @@ from playwright.sync_api import sync_playwright
 
 from eldiario_urls import obtener_urls_noticias
 from eldiario_scraper import obtener_noticia
+from subir_json import subir_json
 
 
 RUTA_JSON = "data/eldiario/noticias.json"
 RUTA_LOG = "logs/eldiario_scraper.log"
 
-LIMITE_NOTICIAS = 100
+LIMITE_URLS = 10
+LIMITE_NOTICIAS = 10
 
 
 # ============================================================
@@ -87,6 +89,7 @@ def cargar_noticias():
 
     return datos
 
+
 # ============================================================
 # FECHA DE LA NOTICIA
 # ============================================================
@@ -108,6 +111,60 @@ def fecha_noticia(noticia):
     except (ValueError, TypeError):
 
         return datetime.min
+
+
+# ============================================================
+# GUARDAR JSON DE FORMA SEGURA
+# ============================================================
+
+def guardar_json(noticias):
+
+    os.makedirs(
+        os.path.dirname(RUTA_JSON),
+        exist_ok=True
+    )
+
+    ruta_temp = RUTA_JSON + ".tmp"
+
+    try:
+
+        with open(
+            ruta_temp,
+            "w",
+            encoding="utf-8"
+        ) as archivo:
+
+            json.dump(
+                noticias,
+                archivo,
+                ensure_ascii=False,
+                indent=4
+            )
+
+            archivo.flush()
+
+            os.fsync(
+                archivo.fileno()
+            )
+
+        os.replace(
+            ruta_temp,
+            RUTA_JSON
+        )
+
+    except Exception:
+
+        if os.path.exists(ruta_temp):
+
+            try:
+
+                os.remove(ruta_temp)
+
+            except OSError:
+
+                pass
+
+        raise
 
 
 # ============================================================
@@ -141,7 +198,7 @@ def guardar_noticias():
         # =====================================================
 
         urls = obtener_urls_noticias(
-            limite=20
+            limite=LIMITE_URLS
         )
 
         nuevas_urls = [
@@ -171,7 +228,6 @@ def guardar_noticias():
         # =====================================================
 
         nuevas = 0
-
         errores = 0
 
         # =====================================================
@@ -219,7 +275,10 @@ def guardar_noticias():
                                 logger
                             )
 
-                            duracion_noticia = time.time() - inicio_noticia
+                            duracion_noticia = (
+                                time.time()
+                                - inicio_noticia
+                            )
 
                             noticias_por_url[url] = noticia
 
@@ -231,17 +290,10 @@ def guardar_noticias():
 
                             logger.info(
                                 f"Procesamiento completado | "
-                                f"Noticia {i}/{len(nuevas_urls)} | "
-                                f"Tiempo total: {duracion_noticia:.2f} segundos"
-                            )
-
-                        except Exception as e:
-
-                            errores += 1
-
-                            logger.error(
-                                f"ERROR AL SCRAPEAR: "
-                                f"{url} | {e}"
+                                f"Noticia "
+                                f"{i}/{len(nuevas_urls)} | "
+                                f"Tiempo total: "
+                                f"{duracion_noticia:.2f} segundos"
                             )
 
                         except Exception as e:
@@ -281,42 +333,57 @@ def guardar_noticias():
             reverse=True
         )
 
+        # =====================================================
+        # LIMITAR A 10 NOTICIAS
+        # =====================================================
+
         noticias = noticias[
             :LIMITE_NOTICIAS
         ]
 
         # =====================================================
-        # CREAR DIRECTORIO
+        # GUARDAR JSON LOCAL
         # =====================================================
 
-        os.makedirs(
-            os.path.dirname(RUTA_JSON),
-            exist_ok=True
+        guardar_json(
+            noticias
+        )
+
+        logger.info(
+            "JSON LOCAL GUARDADO CORRECTAMENTE"
         )
 
         # =====================================================
-        # GUARDAR JSON
+        # SUBIR JSON A LARAVEL
         # =====================================================
 
-        RUTA_TEMP = RUTA_JSON + ".tmp"
+        try:
 
-        with open(RUTA_TEMP, "w", encoding="utf-8") as archivo:
-            json.dump(
-                noticias,
-                archivo,
-                ensure_ascii=False,
-                indent=4
+            resultado_upload = subir_json(
+                "eldiario",
+                RUTA_JSON
             )
-            archivo.flush()
-            os.fsync(archivo.fileno())
 
-        os.replace(RUTA_TEMP, RUTA_JSON)
-        
+            logger.info(
+                "JSON SUBIDO A LARAVEL "
+                "CORRECTAMENTE | "
+                f"Noticias: "
+                f"{resultado_upload.get('noticias')}"
+            )
+
+        except Exception as e:
+
+            logger.error(
+                f"ERROR AL SUBIR JSON A LARAVEL: {e}"
+            )
+
         # =====================================================
-        # LOG FINAL
+        # RESUMEN
         # =====================================================
 
-        duracion = time.time() - inicio
+        duracion = (
+            time.time() - inicio
+        )
 
         logger.info(
             f"Noticias nuevas: {nuevas}"
@@ -331,7 +398,8 @@ def guardar_noticias():
         )
 
         logger.info(
-            f"Límite máximo: {LIMITE_NOTICIAS}"
+            f"Límite máximo: "
+            f"{LIMITE_NOTICIAS}"
         )
 
         logger.info(
@@ -347,7 +415,9 @@ def guardar_noticias():
 
     except Exception as e:
 
-        duracion = time.time() - inicio
+        duracion = (
+            time.time() - inicio
+        )
 
         logger.exception(
             f"EJECUCION FALLIDA | "
